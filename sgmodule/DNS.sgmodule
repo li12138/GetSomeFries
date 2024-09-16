@@ -108,6 +108,37 @@ networking.apple = server:https://doh.dns.apple.com/dns-query // Apple
 # *.apple.com = server:https://doh.dns.apple.com/dns-query // Apple.com
 *.icloud.com = server:https://doh.dns.apple.com/dns-query // iCloud.com
 
+# > Facebook
+*.instagram.com = server:https://cloudflare-dns.com/dns-query // instagram
+*.cdninstagram.com = server:https://cloudflare-dns.com/dns-query // instagram
+*.facebook.com = server:https://cloudflare-dns.com/dns-query // facebook
+
+# > Twitter
+*.cms-twdigitalassets.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.periscope.tv = server:https://cloudflare-dns.com/dns-query // Twitter
+*.pscp.tv = server:https://cloudflare-dns.com/dns-query // Twitter
+*.t.co = server:https://cloudflare-dns.com/dns-query // Twitter
+*.tellapart.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.tweetdeck.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twimg.co = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twimg.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twimg.org = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitpic.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitter.biz = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitter.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitter.jp = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twittercommunity.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitterflightschool.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitterinc.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitteroauth.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twitterstat.us = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twtrdns.net = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twttr.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twttr.net = server:https://cloudflare-dns.com/dns-query // Twitter
+*.twvid.com = server:https://cloudflare-dns.com/dns-query // Twitter
+*.vine.co = server:https://cloudflare-dns.com/dns-query // Twitter
+*.x.com = server:https://cloudflare-dns.com/dns-query // Twitter
+
 # > Alphabet
 # refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
 # *.google = server:https://cloudflare-dns.com/dns-query // Google
