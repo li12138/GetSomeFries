@@ -125,13 +125,6 @@ _hotspot_.m2m = server:system
 # csl Wi-Fi
 hotspot.cslwifi.com = server:system
 
-# > Apple
-# refer: https://support.apple.com/zh-cn/HT210060
-networking.apple = server:https://doh.dns.apple.com/dns-query
-# Apple.com
-# *.apple.com = server:https://doh.dns.apple.com/dns-query
-# iCloud.com
-*.icloud.com = server:https://doh.dns.apple.com/dns-query
 
 # > Facebook
 *.aboutfacebook.com = server:https://cloudflare-dns.com/dns-query // facebook
@@ -1125,7 +1118,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 # CABLE TV Service
 # *.cabletv.com.hk = server:dns2.hkcable.com.hk
 # KDDI Hong Kong Limited
-# *.hk.kddi.com = server:apple.kdd.net.hk
 
 # > 🇹🇼 TWN
 # 中华电信
