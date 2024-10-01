@@ -102,12 +102,6 @@ peiluyou.com = server:syslib // 迅雷路由
 _hotspot_.m2m = server:syslib // M2M routers at MiFi Hotspot
 hotspot.cslwifi.com = server:syslib // csl Wi-Fi
 
-# > Apple
-# refer: https://support.apple.com/zh-cn/HT210060
-networking.apple = server:https://doh.dns.apple.com/dns-query // Apple
-# *.apple.com = server:https://doh.dns.apple.com/dns-query // Apple.com
-*.icloud.com = server:https://doh.dns.apple.com/dns-query // iCloud.com
-
 # > Facebook
 *.aboutfacebook.com = server:https://cloudflare-dns.com/dns-query // facebook
 *.accessfacebookfromschool.com = server:https://cloudflare-dns.com/dns-query // facebook
@@ -938,7 +932,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query // BiliBili upo
 # *.i-cable.com = server:dns2.hkcable.com.hk // i-CABLE
 # *.cabletv.com.hk = server:dns2.hkcable.com.hk // CABLE TV Service
 # KDDI Hong Kong Limited
-# *.hk.kddi.com = server:apple.kdd.net.hk // KDDI Hong Kong
 
 # > 🇹🇼 TWN
 # 中华电信
