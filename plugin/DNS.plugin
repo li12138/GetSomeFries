@@ -61,7 +61,6 @@ clientservices.googleapis.com = server:https://cloudflare-dns.com/dns-query
 update.googleapis.com = server:https://cloudflare-dns.com/dns-query
 translate.googleapis.com = server:https://cloudflare-dns.com/dns-query
 fonts.googleapis.com = server:https://cloudflare-dns.com/dns-query
-fonts.gstatic.com = server:https://cloudflare-dns.com/dns-query
 # Google STUN
 stun.l.google.com = server:https://cloudflare-dns.com/dns-query
 stun?.l.google.com = server:https://cloudflare-dns.com/dns-query
@@ -733,8 +732,6 @@ hotspot.cslwifi.com = server:system
 *.google.com.?? = server:https://cloudflare-dns.com/dns-query
 # Google sites
 # *.goog = server:https://cloudflare-dns.com/dns-query
-# Google 静态资源
-*.gstatic.com = server:https://cloudflare-dns.com/dns-query
 # Google Photos
 *.ggpht.com = server:https://cloudflare-dns.com/dns-query
 # Google 用户上传数据
