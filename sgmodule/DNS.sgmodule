@@ -64,7 +64,6 @@ clientservices.googleapis.com = server:https://cloudflare-dns.com/dns-query // G
 update.googleapis.com = server:https://cloudflare-dns.com/dns-query // Google Update
 translate.googleapis.com = server:https://cloudflare-dns.com/dns-query // Google Translate
 fonts.googleapis.com = server:https://cloudflare-dns.com/dns-query // Google Fonts
-fonts.gstatic.com = server:https://cloudflare-dns.com/dns-query // Google Fonts
 stun.l.google.com = server:https://cloudflare-dns.com/dns-query // Google STUN
 stun?.l.google.com = server:https://cloudflare-dns.com/dns-query // Google STUN
 
@@ -708,7 +707,6 @@ hotspot.cslwifi.com = server:syslib // csl Wi-Fi
 *.google.com = server:https://cloudflare-dns.com/dns-query // Google
 *.google.com.?? = server:https://cloudflare-dns.com/dns-query // Google
 # *.goog = server:https://cloudflare-dns.com/dns-query // Google sites
-*.gstatic.com = server:https://cloudflare-dns.com/dns-query // Google 静态资源
 *.ggpht.com = server:https://cloudflare-dns.com/dns-query // Google Photos
 *.googleusercontent.com = server:https://cloudflare-dns.com/dns-query // Google 用户上传数据
 *.googleapis.com = server:https://cloudflare-dns.com/dns-query // Google APIs
