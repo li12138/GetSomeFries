@@ -1,3 +1,7 @@
+# 大部分国外的都改为了cloudflare的doh，增加了小红书，抖音，京东，高德地图
+
+
+
 # 🍟 GetSomeFries
   * 解锁完整的Apple功能和集成服务
   * **Powered by [Chavy](https://github.com/chavyleung)‘s [Env.js](https://github.com/chavyleung/scripts/blob/master/Env.js) and [🧰 BoxJs](https://chavyleung.gitbook.io/boxjs/)**
