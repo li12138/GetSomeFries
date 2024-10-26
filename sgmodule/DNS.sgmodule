@@ -908,6 +908,24 @@ upos-sz-mirrorcos??.bilivideo.com = server:https://doh.pub/dns-query // BiliBili
 upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服务器（百度云）
 upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query // BiliBili upos视频服务器（腾讯云）
 
+# > xiaohongshu
+*.xhscdn.com = server:180.184.1.1 // 小红书
+*.xhscdn.net = server:180.184.1.1 // 小红书
+*.xiaohongshu.com = server:180.184.1.1 // 小红书
+
+# > Amap
+*.a-map.cn = server:https://dns.alidns.com/dns-query // 高德地图
+*.a-map.co = server:https://dns.alidns.com/dns-query
+*.a-map.link = server:https://dns.alidns.com/dns-query
+*.a-map.vip = server:https://dns.alidns.com/dns-query
+*.acloudrender.com = server:https://dns.alidns.com/dns-query
+*.amap.com = server:https://dns.alidns.com/dns-query
+*.amapauto.com = server:https://dns.alidns.com/dns-query
+*.anav.com = server:https://dns.alidns.com/dns-query
+*.autonavi.com = server:https://dns.alidns.com/dns-query
+*.gaode.com = server:https://dns.alidns.com/dns-query
+
+
 # > 🇨🇳 CHN
 # CNNIC SDNS
 # *.gov.cn = server:1.2.4.8 // 中国政府网
