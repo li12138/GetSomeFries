@@ -727,30 +727,31 @@ com.graph-fallback.instagram = server:https://dns.adguard-dns.com/dns-query
 
 
 # > telegram
-*.api.imem.app = server:https://cloudflare-dns.com/dns-query // telegram
-*.api.swiftgram.app = server:https://cloudflare-dns.com/dns-query // telegram
-*.cdn-telegram.org = server:https://cloudflare-dns.com/dns-query // telegram
-*.comments.app = server:https://cloudflare-dns.com/dns-query // telegram
-*.contest.com = server:https://cloudflare-dns.com/dns-query // telegram
-*.graph.org = server:https://cloudflare-dns.com/dns-query // telegram
-*.legra.ph = server:https://cloudflare-dns.com/dns-query // telegram
-*.mbrx.app = server:https://cloudflare-dns.com/dns-query // telegram
-*.quiz.directory = server:https://cloudflare-dns.com/dns-query // telegram
-*.stel.com = server:https://cloudflare-dns.com/dns-query // telegram
-*.t.me = server:https://cloudflare-dns.com/dns-query // telegram
-*.tdesktop.com = server:https://cloudflare-dns.com/dns-query // telegram
-*.telega.one = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegra.ph = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegram-cdn.org = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegram.dog = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegram.me = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegram.org = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegram.space = server:https://cloudflare-dns.com/dns-query // telegram
-*.telegramdownload.com = server:https://cloudflare-dns.com/dns-query // telegram
-*.telesco.pe = server:https://cloudflare-dns.com/dns-query // telegram
-*.tg.dev = server:https://cloudflare-dns.com/dns-query // telegram
-*.tx.me = server:https://cloudflare-dns.com/dns-query // telegram
-*.usercontent.dev = server:https://cloudflare-dns.com/dns-query // telegram
+*.api.imem.app = server:https://dns.adguard-dns.com/dns-query // telegram
+*.api.swiftgram.app = server:https://dns.adguard-dns.com/dns-query // telegram
+*.cdn-telegram.org = server:https://dns.adguard-dns.com/dns-query // telegram
+*.comments.app = server:https://dns.adguard-dns.com/dns-query // telegram
+*.contest.com = server:https://dns.adguard-dns.com/dns-query // telegram
+*.graph.org = server:https://dns.adguard-dns.com/dns-query // telegram
+*.legra.ph = server:https://dns.adguard-dns.com/dns-query // telegram
+*.mbrx.app = server:https://dns.adguard-dns.com/dns-query // telegram
+*.quiz.directory = server:https://dns.adguard-dns.com/dns-query // telegram
+*.stel.com = server:https://dns.adguard-dns.com/dns-query // telegram
+*.t.me = server:https://dns.adguard-dns.com/dns-query // telegram
+*.tdesktop.com = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telega.one = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegra.ph = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegram-cdn.org = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegram.dog = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegram.me = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegram.org = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegram.space = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telegramdownload.com = server:https://dns.adguard-dns.com/dns-query // telegram
+*.telesco.pe = server:https://dns.adguard-dns.com/dns-query // telegram
+*.tg.dev = server:https://dns.adguard-dns.com/dns-query // telegram
+*.tx.me = server:https://dns.adguard-dns.com/dns-query // telegram
+*.usercontent.dev = server:https://dns.adguard-dns.com/dns-query // telegram
+
 
 
 
