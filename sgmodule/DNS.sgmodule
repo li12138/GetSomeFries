@@ -1236,9 +1236,9 @@ upos-sz-upcdntx.bilivideo.com = server:https://dns.alidns.com/dns-query // BiliB
 
 
 # > xiaohongshu
-*.xhscdn.com = server:180.184.1.1 // 小红书
-*.xhscdn.net = server:180.184.1.1 // 小红书
-*.xiaohongshu.com = server:180.184.1.1 // 小红书
+*.xhscdn.com = server:quic://c7e2d1b4.d.adguard-dns.com // 小红书
+*.xhscdn.net = server:quic://c7e2d1b4.d.adguard-dns.com // 小红书
+*.xiaohongshu.com = server:quic://c7e2d1b4.d.adguard-dns.com // 小红书
 
 # > Amap
 *.a-map.cn = server:https://dns.alidns.com/dns-query // 高德地图
