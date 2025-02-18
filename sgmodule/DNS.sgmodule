@@ -1231,9 +1231,9 @@ upos-sz-upcdnbd??.bilivideo.com = server:9.9.9.9 118.193.19.19 203.80.96.10 180.
 upos-sz-upcdntx.bilivideo.com = server:9.9.9.9 118.193.19.19 203.80.96.10 // BiliBili upos视频服务器（腾讯云）
 
 # > xiaohongshu
-*.xhscdn.com = server:180.184.1.1 9.9.9.9 118.193.19.19 203.80.96.10 // 小红书
-*.xhscdn.net = server:180.184.1.1 9.9.9.9 118.193.19.19 203.80.96.10 // 小红书
-*.xiaohongshu.com = server:180.184.1.1 9.9.9.9 118.193.19.19 203.80.96.10 // 小红书
+*.xhscdn.com = server:180.184.1.1 // 小红书
+*.xhscdn.net = server:180.184.1.1 // 小红书
+*.xiaohongshu.com = server:180.184.1.1 // 小红书
 
 # > Amap
 *.a-map.cn = server:223.5.5.5 223.6.6.6 9.9.9.9 118.193.19.19 203.80.96.10 // 高德地图
