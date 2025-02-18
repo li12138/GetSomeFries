@@ -784,29 +784,30 @@ com.graph-fallback.instagram = server:quic://c7e2d1b4.d.adguard-dns.com
 
 # > Alphabet
 # refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
-# *.google = server:quic://c7e2d1b4.d.adguard-dns.com // Google
-*.google.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google
-*.google.com.?? = server:quic://c7e2d1b4.d.adguard-dns.com // Google
-# *.goog = server:quic://c7e2d1b4.d.adguard-dns.com // Google sites
-*.ggpht.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google Photos
-*.googleusercontent.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google 用户上传数据
-*.googleapis.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google APIs
-*.1e100.net = server:quic://c7e2d1b4.d.adguard-dns.com // Google backbone
-*.youtube = server:quic://c7e2d1b4.d.adguard-dns.com // Youtube sites
-*.youtube.com = server:quic://c7e2d1b4.d.adguard-dns.com // Youtube
-*.ytimg.com = server:quic://c7e2d1b4.d.adguard-dns.com // Youtube 图片
-*.googlevideo.com = server:quic://c7e2d1b4.d.adguard-dns.com // Youtube Video
-*.gvt?.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google Video Thumbnails
-*.recaptcha.net = server:quic://c7e2d1b4.d.adguard-dns.com // reCaptcha
-*.gmail.com = server:quic://c7e2d1b4.d.adguard-dns.com // Gmail
-*.googlesource.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google Source
-*.googleadservices.com = server:quic://c7e2d1b4.d.adguard-dns.com // Google AD Services
-*.doubleclick.net = server:quic://c7e2d1b4.d.adguard-dns.com // DoubleClick
-*.adsense.com = server:quic://c7e2d1b4.d.adguard-dns.com // AdSense
-*.adsensecustomsearchads.com = server:quic://c7e2d1b4.d.adguard-dns.com // AdSense Custom Search Ads
-*.adsenseformobileapps.com = server:quic://c7e2d1b4.d.adguard-dns.com // AdSense for mobile apps
-*.gle = server:quic://c7e2d1b4.d.adguard-dns.com // Google shortened URLs
-goo.gl = server:quic://c7e2d1b4.d.adguard-dns.com // Google URL Shortener
+# *.google = server:https://dns.google/dns-query // Google
+# *.google.com = server:https://dns.google/dns-query // Google
+# *.google.com.?? = server:https://dns.google/dns-query // Google
+# *.goog = server:https://dns.google/dns-query // Google sites
+# *.gstatic.com = server:https://dns.google/dns-query // Google 静态资源
+# *.ggpht.com = server:https://dns.google/dns-query // Google Photos
+# *.googleusercontent.com = server:https://dns.google/dns-query // Google 用户上传数据
+# *.googleapis.com = server:https://dns.google/dns-query // Google APIs
+# *.1e100.net = server:https://dns.google/dns-query // Google backbone
+# *.youtube = server:https://dns.google/dns-query // Youtube sites
+# *.youtube.com = server:https://dns.google/dns-query // Youtube
+# *.ytimg.com = server:https://dns.google/dns-query // Youtube 图片
+# *.googlevideo.com = server:https://dns.google/dns-query // Youtube Video
+# *.gvt?.com = server:https://dns.google/dns-query // Google Video Thumbnails
+# *.recaptcha.net = server:https://dns.google/dns-query // reCaptcha
+# *.gmail.com = server:https://dns.google/dns-query // Gmail
+# *.googlesource.com = server:https://dns.google/dns-query // Google Source
+# *.googleadservices.com = server:https://dns.google/dns-query // Google AD Services
+# *.doubleclick.net = server:https://dns.google/dns-query // DoubleClick
+# *.adsense.com = server:https://dns.google/dns-query // AdSense
+# *.adsensecustomsearchads.com = server:https://dns.google/dns-query // AdSense Custom Search Ads
+# *.adsenseformobileapps.com = server:https://dns.google/dns-query // AdSense for mobile apps
+# *.gle = server:https://dns.google/dns-query // Google shortened URLs
+# goo.gl = server:https://dns.google/dns-query // Google URL Shortener
 
 # > Cloudflare
 # refer: https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/
