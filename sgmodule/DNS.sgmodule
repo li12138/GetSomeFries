@@ -782,32 +782,32 @@ com.graph-fallback.instagram = server:quic://c7e2d1b4.d.adguard-dns.com
 *.vine.co = server:quic://c7e2d1b4.d.adguard-dns.com // Twitter
 *.x.com = server:quic://c7e2d1b4.d.adguard-dns.com // Twitter
 
-# > Alphabet
-# refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
-# *.google = server:https://dns.adguard.com/dns-query // Google
-# *.google.com = server:https://dns.adguard.com/dns-query // Google
-# *.google.com.?? = server:https://dns.adguard.com/dns-query // Google
-# *.goog = server:https://dns.adguard.com/dns-query // Google sites
-# *.gstatic.com = server:https://dns.adguard.com/dns-query // Google 静态资源
-# *.ggpht.com = server:https://dns.adguard.com/dns-query // Google Photos
-# *.googleusercontent.com = server:https://dns.adguard.com/dns-query // Google 用户上传数据
-# *.googleapis.com = server:https://dns.adguard.com/dns-query // Google APIs
-# *.1e100.net = server:https://dns.adguard.com/dns-query // Google backbone
-# *.youtube = server:https://dns.adguard.com/dns-query // Youtube sites
-# *.youtube.com = server:https://dns.adguard.com/dns-query // Youtube
-# *.ytimg.com = server:https://dns.adguard.com/dns-query // Youtube 图片
-# *.googlevideo.com = server:https://dns.adguard.com/dns-query // Youtube Video
-# *.gvt?.com = server:https://dns.adguard.com/dns-query // Google Video Thumbnails
-# *.recaptcha.net = server:https://dns.adguard.com/dns-query // reCaptcha
-# *.gmail.com = server:https://dns.adguard.com/dns-query // Gmail
-# *.googlesource.com = server:https://dns.adguard.com/dns-query // Google Source
-# *.googleadservices.com = server:https://dns.adguard.com/dns-query // Google AD Services
-# *.doubleclick.net = server:https://dns.adguard.com/dns-query // DoubleClick
-# *.adsense.com = server:https://dns.adguard.com/dns-query // AdSense
-# *.adsensecustomsearchads.com = server:https://dns.adguard.com/dns-query // AdSense Custom Search Ads
-# *.adsenseformobileapps.com = server:https://dns.adguard.com/dns-query // AdSense for mobile apps
-# *.gle = server:https://dns.adguard.com/dns-query // Google shortened URLs
-# goo.gl = server:https://dns.adguard.com/dns-query // Google URL Shortener
+> Alphabet
+refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
+*.google = server:https://dns.adguard.com/dns-query // Google
+*.google.com = server:https://dns.adguard.com/dns-query // Google
+*.google.com.?? = server:https://dns.adguard.com/dns-query // Google
+*.goog = server:https://dns.adguard.com/dns-query // Google sites
+*.gstatic.com = server:https://dns.adguard.com/dns-query // Google 静态资源
+*.ggpht.com = server:https://dns.adguard.com/dns-query // Google Photos
+*.googleusercontent.com = server:https://dns.adguard.com/dns-query // Google 用户上传数据
+*.googleapis.com = server:https://dns.adguard.com/dns-query // Google APIs
+*.1e100.net = server:https://dns.adguard.com/dns-query // Google backbone
+*.youtube = server:https://dns.adguard.com/dns-query // Youtube sites
+*.youtube.com = server:https://dns.adguard.com/dns-query // Youtube
+*.ytimg.com = server:https://dns.adguard.com/dns-query // Youtube 图片
+*.googlevideo.com = server:https://dns.adguard.com/dns-query // Youtube Video
+*.gvt?.com = server:https://dns.adguard.com/dns-query // Google Video Thumbnails
+*.recaptcha.net = server:https://dns.adguard.com/dns-query // reCaptcha
+*.gmail.com = server:https://dns.adguard.com/dns-query // Gmail
+*.googlesource.com = server:https://dns.adguard.com/dns-query // Google Source
+*.googleadservices.com = server:https://dns.adguard.com/dns-query // Google AD Services
+*.doubleclick.net = server:https://dns.adguard.com/dns-query // DoubleClick
+*.adsense.com = server:https://dns.adguard.com/dns-query // AdSense
+*.adsensecustomsearchads.com = server:https://dns.adguard.com/dns-query // AdSense Custom Search Ads
+*.adsenseformobileapps.com = server:https://dns.adguard.com/dns-query // AdSense for mobile apps
+*.gle = server:https://dns.adguard.com/dns-query // Google shortened URLs
+goo.gl = server:https://dns.adguard.com/dns-query // Google URL Shortener
 
 
 # > Cloudflare
