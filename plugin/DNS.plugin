@@ -133,53 +133,1082 @@ networking.apple = server:223.5.5.5
 # iCloud.com
 *.icloud.com = server:223.5.5.5
 
-# > Alphabet
-# refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
-# *.google = server:https://dns.google/dns-query
-# *.google.com = server:https://dns.google/dns-query
-# *.google.com.?? = server:https://dns.google/dns-query
-# Google sites
-# *.goog = server:https://dns.google/dns-query
-# Google 静态资源
-# *.gstatic.com = server:https://dns.google/dns-query
-# Google Photos
-# *.ggpht.com = server:https://dns.google/dns-query
-# Google 用户上传数据
-# *.googleusercontent.com = server:https://dns.google/dns-query
-# Google APIs
-# *.googleapis.com = server:https://dns.google/dns-query
-# Google backbone
-# *.1e100.net = server:https://dns.google/dns-query
-# Youtube sites
-# *.youtube = server:https://dns.google/dns-query
-# Youtube
-# *.youtube.com = server:https://dns.google/dns-query
-# Youtube 图片
-# *.ytimg.com = server:https://dns.google/dns-query
-# Youtube Video
-# *.googlevideo.com = server:https://dns.google/dns-query
-# Google Video Thumbnails
-# *.gvt?.com = server:https://dns.google/dns-query
-# reCaptcha
-# *.recaptcha.net = server:https://dns.google/dns-query
-# Gmail
-# *.gmail.com = server:https://dns.google/dns-query
-# Google Source
-# *.googlesource.com = server:https://dns.google/dns-query
-# Google AD Services
-# *.googleadservices.com = server:https://dns.google/dns-query
-# DoubleClick
-# *.doubleclick.net = server:https://dns.google/dns-query
-# AdSense
-# *.adsense.com = server:https://dns.google/dns-query
-# AdSense Custom Search Ads
-# *.adsensecustomsearchads.com = server:https://dns.google/dns-query
-# AdSense for mobile apps
-# *.adsenseformobileapps.com = server:https://dns.google/dns-query
-# Google shortened URLs
-# *.gle = server:https://dns.google/dns-query
-# Google URL Shortener
-# goo.gl = server:https://dns.google/dns-query
+# > Facebook
+*.aboutfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.accessfacebookfromschool.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.accountkit.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.acebooik.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.acebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.achat-followers-instagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.acheter-followers-instagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.acheterdesfollowersinstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.acheterfollowersinstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.advancediddetection.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.askfacebook.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.askfacebook.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.atdmt2.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.atlasdmt.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.atlasonepoint.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.atscaleconference.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.binoculus.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.bookstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.botorch.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.buck.build = server:https://dns.cloudflare.com/dns-query // facebook
+*.buckbuild.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.buyingfacebooklikes.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.buyoculus.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.careersatfb.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.carstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.cdninstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.celebgramme.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.chickstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.china-facebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.click-url.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.como-hackearfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.componentkit.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.crowdtangle.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.dacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.dlfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.dotfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.dotfacebook.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.draftjs.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.expresswifi.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.f8.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faacebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faasbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facbebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facbeok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facboo.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facbool.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facboox.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faccebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faccebookk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facdbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facdebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.face-book.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceabook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebboc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebboook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebcook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebdok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebgook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebhook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebkkk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebo-ok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboak.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebock.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebocke.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebof.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboik.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebokbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebokc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebokk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebokok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboks.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebol.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebolk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebomok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboo.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooa.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboob.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboobok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboock.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebood.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooe.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboof.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooi.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooik.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooik.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooj.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-corp.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-covid-19.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-ebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-forum.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-hardware.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-inc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-login.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-newsroom.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-newsroom.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-pmdcenter.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-pmdcenter.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-pmdcenter.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-privacy.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-program.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-studio.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-support.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-texas-holdem.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook-texas-holdem.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.br = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.ca = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.cc = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.design = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.hu = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.in = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.nl = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.se = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.shop = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.tv = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.us = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook.wang = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook123.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook30.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook30.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook30.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebook4business.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookads.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookadvertisingsecrets.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookappcenter.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookappcenter.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookappcenter.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookatschool.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookawards.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookblueprint.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookbrand.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookbrand.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcanadianelectionintegrityinitiative.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcareer.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcheats.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookck.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookclub.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcom.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookconnect.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookconsultant.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcoronavirus.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcovers.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookcredits.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookdating.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookdevelopergarage.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookdusexe.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookemail.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookenespanol.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookexchange.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookexchange.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookflow.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookgames.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookgraphsearch.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookgraphsearch.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookgroups.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookhome.cc = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookhome.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookhome.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookhub.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooki.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookinc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookland.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklikeexchange.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklive.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklivestaging.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklivestaging.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklogin.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklogin.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookloginhelp.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooklogs.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmail.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmail.tv = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmanager.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmarketing.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmarketingpartner.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmarketingpartners.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmobile.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookmsn.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooknews.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooknfl.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooknude.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookofsex.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpaper.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpay.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookphonenumber.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookphoto.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookphotos.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpmdcenter.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpoke.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpoke.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpoker.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookpokerchips.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookporn.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookporn.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookporno.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookportal.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookquotes4u.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooks.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksafety.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksecurity.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookshop.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksignup.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksite.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookstories.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookstudios.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookstudios.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksupplier.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksuppliers.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookswagemea.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookswagstore.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooksz.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookthreads.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooktv.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooktv.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookvacation.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookw.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookwork.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebookworld.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebool.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebool.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebooll.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboom.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboon.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboonk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboooik.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboop.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboot.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceboox.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebopk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebpook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebuk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebuok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebvook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebyook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facebzook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facecbgook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facecbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facecbook.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facecook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facecook.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.facedbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceebot.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facegbok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facegbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceobk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceobok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceobook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faceook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facerbooik.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facerbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facesbooc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facesounds.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facetook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facevbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facewbook.co = server:https://dns.cloudflare.com/dns-query // facebook
+*.facewook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facfebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faciometrics.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fackebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facnbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facrbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facvebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facwebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.facxebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fadebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faebookc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faeboook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faecebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faesebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fafacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faicbooc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fasebokk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fasebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faseboox.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fasttext.cc = server:https://dns.cloudflare.com/dns-query // facebook
+*.favebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.faycbok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fb.careers = server:https://dns.cloudflare.com/dns-query // facebook
+*.fb.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fb.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbaddins.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbbmarket.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbboostyourbusiness.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbcdn-a.akamaihd.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbcdn.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbcdn.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbf8.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbfeedback.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbhome.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbidb.io = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbinc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbinfer.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbinnovation.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fblitho.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbmarketing.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbmessenger.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbredex.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbreg.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbrell.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbrpms.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbsbx.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbsbx.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbsupport-covid.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbthirdpartypixel.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbthirdpartypixel.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbthirdpartypixel.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.fburl.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fbworkmail.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fcacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fcaebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fcebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fcebookk.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fcfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fdacebook.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.feacboo.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.feacbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.feacbooke.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.feacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fecbbok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fecbooc.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fecbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.feceboock.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fecebook.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.feceboox.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fececbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.feook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.ferabook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fescebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fesebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.ffacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fgacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.ficeboock.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.flow.dev = server:https://dns.cloudflare.com/dns-query // facebook
+*.flow.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.flowtype.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.fmcebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fnacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fosebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fpacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fqcebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fracebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.freeb.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.freebasics.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.freebasics.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.freebs.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.freefacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.freefacebook.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.freefacebookads.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.freefblikes.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.freindfeed.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.frescolib.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.friendbook.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.friendfed.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.friendfeed-api.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.friendfeed-media.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.friendfeed.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.friendfeedmedia.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fsacebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fscebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.fundraisingwithfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.funnyfacebook.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.futureofbusinesssurvey.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.gacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.gameroom.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.gfacecbook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.groups.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.hackerfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.hackfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.hackfacebookid.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.hacklang.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.hhvm.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.hifacebook.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.howtohackfacebook-account.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.hsfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.httpfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.httpsfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.httpwwwfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.i.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.ig.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.igcdn.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.igsonar.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.igtv.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.imstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.imtagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instaadder.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instachecker.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instafallow.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instafollower.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagainer.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagda.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagify.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagmania.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagor.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagr.am = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagram-brand.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagram-engineering.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagram-help.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagram-press.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagram-press.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramci.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramcn.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramdi.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramhashtags.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramhilecim.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramhilesi.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramium.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramizlenme.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramkusu.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramlogin.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramm.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramn.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagrampartners.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramphoto.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramq.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramsepeti.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramtakipcisatinal.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramtakiphilesi.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramtips.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagramtr.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagran.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagranm.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagrem.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagrm.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagtram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instagy.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instamgram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instangram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instanttelegram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.instaplayer.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.instastyle.tv = server:https://dns.cloudflare.com/dns-query // facebook
+*.instgram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.intagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.intagrm.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.internet.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.intgram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.ip6.static.sl-reverse.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.kingstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.klik.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.liverail.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.liverail.tv = server:https://dns.cloudflare.com/dns-query // facebook
+*.lnstagram-help.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.login-account.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.m.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.makeitopen.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.markzuckerberg.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.mcrouter.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.mcrouter.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.messenger.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.messengerdevelopers.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.meta.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.midentsolutions.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.mobilefacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.moneywithfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.myfbfans.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.nbabot.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.newsfeed.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.nextstop.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.ocul.us = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculus-china.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculus.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculus2014.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculus3d.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusblog.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusbrand.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculuscasino.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculuscdn.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusconnect.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusdiving.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusforbusiness.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusrift.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.oculusvr.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.ogp.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.oninstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.online-deals.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.online-instagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.onlineinstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.opencreate.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.opengraphprotocol.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.opengraphprotocol.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.parse.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.powersunitedvr.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.pyrobot.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.reachtheworldonfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.react.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.reactjs.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.reactjs.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.recoiljs.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.redkix.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.rocksdb.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.rocksdb.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.rocksdb.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.shopfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.sportsfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.sportstream.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.supportfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.terragraph.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.thefacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.thefacebook.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.thefind.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.theinstagramhack.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.toplayerserver.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.viewpointsfromfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.wa.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.web-instagram.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp-plus.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp-plus.me = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp-plus.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.biz = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.cc = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.info = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.net = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.org = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsapp.tv = server:https://dns.cloudflare.com/dns-query // facebook
+*.whatsappbrand.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.whyfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.workplace.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.workplaceusecases.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.worldhack.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.www-facebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.wwwfacebok.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.wwwfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.wwwinstagram.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.wwwmfacebook.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.yogalayout.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.zuckerberg.com = server:https://dns.cloudflare.com/dns-query // facebook
+*.zuckerberg.net = server:https://dns.cloudflare.com/dns-query // facebook
+
+
+# > instagram
+
+*.achat-followers-instagram.com = server:https://dns.cloudflare.com/dns-query
+*.acheter-followers-instagram.com = server:https://dns.cloudflare.com/dns-query
+*.acheterdesfollowersinstagram.com = server:https://dns.cloudflare.com/dns-query
+*.acheterfollowersinstagram.com = server:https://dns.cloudflare.com/dns-query
+*.bookstagram.com = server:https://dns.cloudflare.com/dns-query
+*.carstagram.com = server:https://dns.cloudflare.com/dns-query
+*.cdninstagram.com = server:https://dns.cloudflare.com/dns-query
+*.chickstagram.com = server:https://dns.cloudflare.com/dns-query
+*.ig.me = server:https://dns.cloudflare.com/dns-query
+*.igcdn.com = server:https://dns.cloudflare.com/dns-query
+*.igsonar.com = server:https://dns.cloudflare.com/dns-query
+*.igtv.com = server:https://dns.cloudflare.com/dns-query
+*.imstagram.com = server:https://dns.cloudflare.com/dns-query
+*.imtagram.com = server:https://dns.cloudflare.com/dns-query
+*.instaadder.com = server:https://dns.cloudflare.com/dns-query
+*.instachecker.com = server:https://dns.cloudflare.com/dns-query
+*.instafallow.com = server:https://dns.cloudflare.com/dns-query
+*.instafollower.com = server:https://dns.cloudflare.com/dns-query
+*.instagainer.com = server:https://dns.cloudflare.com/dns-query
+*.instagda.com = server:https://dns.cloudflare.com/dns-query
+*.instagify.com = server:https://dns.cloudflare.com/dns-query
+*.instagmania.com = server:https://dns.cloudflare.com/dns-query
+*.instagor.com = server:https://dns.cloudflare.com/dns-query
+*.instagram-brand.com = server:https://dns.cloudflare.com/dns-query
+*.instagram-engineering.com = server:https://dns.cloudflare.com/dns-query
+*.instagram-help.com = server:https://dns.cloudflare.com/dns-query
+*.instagram-press.com = server:https://dns.cloudflare.com/dns-query
+*.instagram-press.net = server:https://dns.cloudflare.com/dns-query
+*.instagram.com = server:https://dns.cloudflare.com/dns-query
+*.instagramci.com = server:https://dns.cloudflare.com/dns-query
+*.instagramcn.com = server:https://dns.cloudflare.com/dns-query
+*.instagramdi.com = server:https://dns.cloudflare.com/dns-query
+*.instagramhashtags.net = server:https://dns.cloudflare.com/dns-query
+*.instagramhilecim.com = server:https://dns.cloudflare.com/dns-query
+*.instagramhilesi.org = server:https://dns.cloudflare.com/dns-query
+*.instagramium.com = server:https://dns.cloudflare.com/dns-query
+*.instagramizlenme.com = server:https://dns.cloudflare.com/dns-query
+*.instagramkusu.com = server:https://dns.cloudflare.com/dns-query
+*.instagramlogin.com = server:https://dns.cloudflare.com/dns-query
+*.instagramm.com = server:https://dns.cloudflare.com/dns-query
+*.instagramn.com = server:https://dns.cloudflare.com/dns-query
+*.instagrampartners.com = server:https://dns.cloudflare.com/dns-query
+*.instagramphoto.com = server:https://dns.cloudflare.com/dns-query
+*.instagramq.com = server:https://dns.cloudflare.com/dns-query
+*.instagramsepeti.com = server:https://dns.cloudflare.com/dns-query
+*.instagramtakipcisatinal.net = server:https://dns.cloudflare.com/dns-query
+*.instagramtakiphilesi.com = server:https://dns.cloudflare.com/dns-query
+*.instagramtips.com = server:https://dns.cloudflare.com/dns-query
+*.instagramtr.com = server:https://dns.cloudflare.com/dns-query
+*.instagran.com = server:https://dns.cloudflare.com/dns-query
+*.instagranm.com = server:https://dns.cloudflare.com/dns-query
+*.instagrem.com = server:https://dns.cloudflare.com/dns-query
+*.instagrm.com = server:https://dns.cloudflare.com/dns-query
+*.instagtram.com = server:https://dns.cloudflare.com/dns-query
+*.instagy.com = server:https://dns.cloudflare.com/dns-query
+*.instamgram.com = server:https://dns.cloudflare.com/dns-query
+*.instangram.com = server:https://dns.cloudflare.com/dns-query
+*.instanttelegram.com = server:https://dns.cloudflare.com/dns-query
+*.instaplayer.net = server:https://dns.cloudflare.com/dns-query
+*.instastyle.tv = server:https://dns.cloudflare.com/dns-query
+*.instgram.com = server:https://dns.cloudflare.com/dns-query
+*.intagram.com = server:https://dns.cloudflare.com/dns-query
+*.intagrm.com = server:https://dns.cloudflare.com/dns-query
+*.intgram.com = server:https://dns.cloudflare.com/dns-query
+*.kingstagram.com = server:https://dns.cloudflare.com/dns-query
+*.lnstagram-help.com = server:https://dns.cloudflare.com/dns-query
+*.theinstagramhack.com = server:https://dns.cloudflare.com/dns-query
+*.oninstagram.com = server:https://dns.cloudflare.com/dns-query
+*.online-instagram.com = server:https://dns.cloudflare.com/dns-query
+*.onlineinstagram.com = server:https://dns.cloudflare.com/dns-query
+*.web-instagram.net = server:https://dns.cloudflare.com/dns-query
+*.wwwinstagram.com = server:https://dns.cloudflare.com/dns-query
+com.graph.instagram = server:https://dns.cloudflare.com/dns-query
+com.graph-fallback.instagram = server:https://dns.cloudflare.com/dns-query
+
+
+# > telegram
+*.api.imem.app = server:https://dns.cloudflare.com/dns-query // telegram
+*.api.swiftgram.app = server:https://dns.cloudflare.com/dns-query // telegram
+*.cdn-telegram.org = server:https://dns.cloudflare.com/dns-query // telegram
+*.comments.app = server:https://dns.cloudflare.com/dns-query // telegram
+*.contest.com = server:https://dns.cloudflare.com/dns-query // telegram
+*.graph.org = server:https://dns.cloudflare.com/dns-query // telegram
+*.legra.ph = server:https://dns.cloudflare.com/dns-query // telegram
+*.mbrx.app = server:https://dns.cloudflare.com/dns-query // telegram
+*.quiz.directory = server:https://dns.cloudflare.com/dns-query // telegram
+*.stel.com = server:https://dns.cloudflare.com/dns-query // telegram
+*.t.me = server:https://dns.cloudflare.com/dns-query // telegram
+*.tdesktop.com = server:https://dns.cloudflare.com/dns-query // telegram
+*.telega.one = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegra.ph = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegram-cdn.org = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegram.dog = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegram.me = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegram.org = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegram.space = server:https://dns.cloudflare.com/dns-query // telegram
+*.telegramdownload.com = server:https://dns.cloudflare.com/dns-query // telegram
+*.telesco.pe = server:https://dns.cloudflare.com/dns-query // telegram
+*.tg.dev = server:https://dns.cloudflare.com/dns-query // telegram
+*.tx.me = server:https://dns.cloudflare.com/dns-query // telegram
+*.usercontent.dev = server:https://dns.cloudflare.com/dns-query // telegram
+
+# > Amazon
+*.a2z.com = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.cn = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.co.uk = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.com = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.com.au = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.de = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.es = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.eu = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.fr = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.in = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.it = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.jp = server:https://dns.cloudflare.com/dns-query
+*.aboutamazon.pl = server:https://dns.cloudflare.com/dns-query
+*.acmvalidations.com = server:https://dns.cloudflare.com/dns-query
+*.acmvalidationsaws.com = server:https://dns.cloudflare.com/dns-query
+*.aesworkshops.com = server:https://dns.cloudflare.com/dns-query
+*.aiv-cdn.net = server:https://dns.cloudflare.com/dns-query
+*.aiv-delivery.net = server:https://dns.cloudflare.com/dns-query
+*.alexa.com = server:https://dns.cloudflare.com/dns-query
+*.alexafund.cn = server:https://dns.cloudflare.com/dns-query
+*.alexafund.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amaaozn.com = server:https://dns.cloudflare.com/dns-query
+*.amazon = server:https://dns.cloudflare.com/dns-query
+*.amazon-adsystem.com = server:https://dns.cloudflare.com/dns-query
+*.amazon-fashions.com = server:https://dns.cloudflare.com/dns-query
+*.amazon-jp-recruiting.com = server:https://dns.cloudflare.com/dns-query
+*.amazon-lantern.com = server:https://dns.cloudflare.com/dns-query
+*.amazon-launchpad.com = server:https://dns.cloudflare.com/dns-query
+*.amazon.ae = server:https://dns.cloudflare.com/dns-query
+*.amazon.ca = server:https://dns.cloudflare.com/dns-query
+*.amazon.cn = server:https://dns.cloudflare.com/dns-query
+*.amazon.co.jp = server:https://dns.cloudflare.com/dns-query
+*.amazon.co.uk = server:https://dns.cloudflare.com/dns-query
+*.amazon.com = server:https://dns.cloudflare.com/dns-query
+*.amazon.com.au = server:https://dns.cloudflare.com/dns-query
+*.amazon.com.br = server:https://dns.cloudflare.com/dns-query
+*.amazon.com.mx = server:https://dns.cloudflare.com/dns-query
+*.amazon.com.tr = server:https://dns.cloudflare.com/dns-query
+*.amazon.de = server:https://dns.cloudflare.com/dns-query
+*.amazon.es = server:https://dns.cloudflare.com/dns-query
+*.amazon.fr = server:https://dns.cloudflare.com/dns-query
+*.amazon.in = server:https://dns.cloudflare.com/dns-query
+*.amazon.it = server:https://dns.cloudflare.com/dns-query
+*.amazon.jobs = server:https://dns.cloudflare.com/dns-query
+*.amazon.jp = server:https://dns.cloudflare.com/dns-query
+*.amazon.nl = server:https://dns.cloudflare.com/dns-query
+*.amazon.red = server:https://dns.cloudflare.com/dns-query
+*.amazon.sg = server:https://dns.cloudflare.com/dns-query
+*.amazonalexavoxcon.com = server:https://dns.cloudflare.com/dns-query
+*.amazonauthorinsights.com = server:https://dns.cloudflare.com/dns-query
+*.amazonaws-china.com = server:https://dns.cloudflare.com/dns-query
+*.amazonaws.co.uk = server:https://dns.cloudflare.com/dns-query
+*.amazonaws.com = server:https://dns.cloudflare.com/dns-query
+*.amazonaws.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonaws.tv = server:https://dns.cloudflare.com/dns-query
+*.amazonbusiness.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonbusiness.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonbusiness.org = server:https://dns.cloudflare.com/dns-query
+*.amazonbusinessblog.com = server:https://dns.cloudflare.com/dns-query
+*.amazonchoice.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonchoice.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonchoices.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonchoices.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazondevicesupport.com = server:https://dns.cloudflare.com/dns-query
+*.amazonfctours.com = server:https://dns.cloudflare.com/dns-query
+*.amazonianblog.com = server:https://dns.cloudflare.com/dns-query
+*.amazonimages.com = server:https://dns.cloudflare.com/dns-query
+*.amazoninspire.cn = server:https://dns.cloudflare.com/dns-query
+*.amazoninspire.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonlaunchpad.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonlaunchpad.com = server:https://dns.cloudflare.com/dns-query
+*.amazonlaunchpad.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonlending.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonliterarypartnership.com = server:https://dns.cloudflare.com/dns-query
+*.amazonlumberyard.wang = server:https://dns.cloudflare.com/dns-query
+*.amazonnow.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonnow.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonpay.com = server:https://dns.cloudflare.com/dns-query
+*.amazonpay.in = server:https://dns.cloudflare.com/dns-query
+*.amazonprimevideo.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonprimevideo.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonprimevideos.com = server:https://dns.cloudflare.com/dns-query
+*.amazonsdi.com = server:https://dns.cloudflare.com/dns-query
+*.amazonstudiosguilds.com = server:https://dns.cloudflare.com/dns-query
+*.amazontools.com = server:https://dns.cloudflare.com/dns-query
+*.amazontours.com = server:https://dns.cloudflare.com/dns-query
+*.amazontrust.com = server:https://dns.cloudflare.com/dns-query
+*.amazonuniversity.jobs = server:https://dns.cloudflare.com/dns-query
+*.amazonvideo.cc = server:https://dns.cloudflare.com/dns-query
+*.amazonvideo.com = server:https://dns.cloudflare.com/dns-query
+*.amazonvideodirect.com = server:https://dns.cloudflare.com/dns-query
+*.amazonworkdocs.cn = server:https://dns.cloudflare.com/dns-query
+*.amazonworkdocs.com = server:https://dns.cloudflare.com/dns-query
+*.amazonworkdocs.com.cn = server:https://dns.cloudflare.com/dns-query
+*.amplifyapp.com = server:https://dns.cloudflare.com/dns-query
+*.amplifyframework.com = server:https://dns.cloudflare.com/dns-query
+*.amzn.asia = server:https://dns.cloudflare.com/dns-query
+*.amzn.com = server:https://dns.cloudflare.com/dns-query
+*.amzn.to = server:https://dns.cloudflare.com/dns-query
+*.amznl.com = server:https://dns.cloudflare.com/dns-query
+*.assoc-amazon.cn = server:https://dns.cloudflare.com/dns-query
+*.associates-amazon.com = server:https://dns.cloudflare.com/dns-query
+*.audible.com = server:https://dns.cloudflare.com/dns-query
+*.avodmp4s3ww-a.akamaihd.net = server:https://dns.cloudflare.com/dns-query
+*.aws = server:https://dns.cloudflare.com/dns-query
+*.aws-iot-hackathon.com = server:https://dns.cloudflare.com/dns-query
+*.awsautopilot.com = server:https://dns.cloudflare.com/dns-query
+*.awsautoscaling.com = server:https://dns.cloudflare.com/dns-query
+*.awsbraket.com = server:https://dns.cloudflare.com/dns-query
+*.awscloud.com = server:https://dns.cloudflare.com/dns-query
+*.awscommandlineinterface.com = server:https://dns.cloudflare.com/dns-query
+*.awsedstart.com = server:https://dns.cloudflare.com/dns-query
+*.awseducate.com = server:https://dns.cloudflare.com/dns-query
+*.awseducate.net = server:https://dns.cloudflare.com/dns-query
+*.awseducate.org = server:https://dns.cloudflare.com/dns-query
+*.awsloft-johannesburg.com = server:https://dns.cloudflare.com/dns-query
+*.awsloft-stockholm.com = server:https://dns.cloudflare.com/dns-query
+*.awssecworkshops.com = server:https://dns.cloudflare.com/dns-query
+*.awsstatic.com = server:https://dns.cloudflare.com/dns-query
+*.awsthinkbox.com = server:https://dns.cloudflare.com/dns-query
+*.awstrack.me = server:https://dns.cloudflare.com/dns-query
+*.awstrust.com = server:https://dns.cloudflare.com/dns-query
+*.boxofficemojo.com = server:https://dns.cloudflare.com/dns-query
+*.cdkworkshop.com = server:https://dns.cloudflare.com/dns-query
+*.cloudfront.net = server:https://dns.cloudflare.com/dns-query
+*.containersonaws.com = server:https://dns.cloudflare.com/dns-query
+*.createspace.com = server:https://dns.cloudflare.com/dns-query
+*.elasticbeanstalk.com = server:https://dns.cloudflare.com/dns-query
+*.gameon-masters.com = server:https://dns.cloudflare.com/dns-query
+*.gdansk-amazon.com = server:https://dns.cloudflare.com/dns-query
+*.images-amazon.com = server:https://dns.cloudflare.com/dns-query
+*.imdb = server:https://dns.cloudflare.com/dns-query
+*.imdb.com = server:https://dns.cloudflare.com/dns-query
+*.imdb.to = server:https://dns.cloudflare.com/dns-query
+*.kindle = server:https://dns.cloudflare.com/dns-query
+*.kindle.cn = server:https://dns.cloudflare.com/dns-query
+*.kindle.co.jp = server:https://dns.cloudflare.com/dns-query
+*.kindle.co.uk = server:https://dns.cloudflare.com/dns-query
+*.kindle.com = server:https://dns.cloudflare.com/dns-query
+*.kindle.de = server:https://dns.cloudflare.com/dns-query
+*.kindle.es = server:https://dns.cloudflare.com/dns-query
+*.kindle.fr = server:https://dns.cloudflare.com/dns-query
+*.kindle.in = server:https://dns.cloudflare.com/dns-query
+*.kindle.it = server:https://dns.cloudflare.com/dns-query
+*.kindle.jp = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.cn = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.com = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.com.cn = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.info = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.jp = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.org = server:https://dns.cloudflare.com/dns-query
+*.kindleoasis.us = server:https://dns.cloudflare.com/dns-query
+*.kindleoasisnews.com = server:https://dns.cloudflare.com/dns-query
+*.kindleproject.com = server:https://dns.cloudflare.com/dns-query
+*.llnwd.net = server:https://dns.cloudflare.com/dns-query
+*.media-amazon.com = server:https://dns.cloudflare.com/dns-query
+*.media-imdb.com = server:https://dns.cloudflare.com/dns-query
+*.prime-video.com = server:https://dns.cloudflare.com/dns-query
+*.primeday.cn = server:https://dns.cloudflare.com/dns-query
+*.primeday.com.cn = server:https://dns.cloudflare.com/dns-query
+*.primeday.info = server:https://dns.cloudflare.com/dns-query
+*.primevideo.cc = server:https://dns.cloudflare.com/dns-query
+*.primevideo.com = server:https://dns.cloudflare.com/dns-query
+*.primevideo.info = server:https://dns.cloudflare.com/dns-query
+*.primevideo.org = server:https://dns.cloudflare.com/dns-query
+*.primevideo.tv = server:https://dns.cloudflare.com/dns-query
+*.pv-cdn.net = server:https://dns.cloudflare.com/dns-query
+*.seattlespheres.com = server:https://dns.cloudflare.com/dns-query
+*.siege-amazon.com = server:https://dns.cloudflare.com/dns-query
+*.ssl-images-amazon.com = server:https://dns.cloudflare.com/dns-query
+*.thinkboxsoftware.com = server:https://dns.cloudflare.com/dns-query
+*.ueberamazon.de = server:https://dns.cloudflare.com/dns-query
+*.wfm.com = server:https://dns.cloudflare.com/dns-query
+*.wholecitiesfoundation.org = server:https://dns.cloudflare.com/dns-query
+*.wholefoods.com = server:https://dns.cloudflare.com/dns-query
+*.wholefoodsmarket.co.uk = server:https://dns.cloudflare.com/dns-query
+*.wholefoodsmarket.com = server:https://dns.cloudflare.com/dns-query
+*.wholekidsfoundation.org = server:https://dns.cloudflare.com/dns-query
+*.wholeplanetfoundation.org = server:https://dns.cloudflare.com/dns-query
+*.xn--cckwcxetd = server:https://dns.cloudflare.com/dns-query
+*.xn--jlq480n2rg = server:https://dns.cloudflare.com/dns-query
+*.yamaxun = server:https://dns.cloudflare.com/dns-query
+*.yamaxun.cn = server:https://dns.cloudflare.com/dns-query
+*.yamaxun.com = server:https://dns.cloudflare.com/dns-query
+*.z.cn = server:https://dns.cloudflare.com/dns-query
+*.zappos = server:https://dns.cloudflare.com/dns-query
+
+
+
+
+# > Twitter
+*.cms-twdigitalassets.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.periscope.tv = server:https://dns.cloudflare.com/dns-query // Twitter
+*.pscp.tv = server:https://dns.cloudflare.com/dns-query // Twitter
+*.t.co = server:https://dns.cloudflare.com/dns-query // Twitter
+*.tellapart.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.tweetdeck.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twimg.co = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twimg.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twimg.org = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitpic.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitter.biz = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitter.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitter.jp = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twittercommunity.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitterflightschool.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitterinc.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitteroauth.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twitterstat.us = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twtrdns.net = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twttr.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twttr.net = server:https://dns.cloudflare.com/dns-query // Twitter
+*.twvid.com = server:https://dns.cloudflare.com/dns-query // Twitter
+*.vine.co = server:https://dns.cloudflare.com/dns-query // Twitter
+*.x.com = server:https://dns.cloudflare.com/dns-query // Twitter
+
+> Youtube
+*.ggpht.cn = server:https://dns.cloudflare.com/dns-query
+*.ggpht.com = server:https://dns.cloudflare.com/dns-query
+*.googlevideo.com = server:https://dns.cloudflare.com/dns-query
+*.gvt1.com = server:https://dns.cloudflare.com/dns-query
+*.gvt2.com = server:https://dns.cloudflare.com/dns-query
+*.video.google.com = server:https://dns.cloudflare.com/dns-query
+*.wide-youtube.l.google.com = server:https://dns.cloudflare.com/dns-query
+*.withyoutube.com = server:https://dns.cloudflare.com/dns-query
+*.youtu.be = server:https://dns.cloudflare.com/dns-query
+*.youtube = server:https://dns.cloudflare.com/dns-query
+*.youtube-nocookie.com = server:https://dns.cloudflare.com/dns-query
+*.youtube-ui.l.google.com = server:https://dns.cloudflare.com/dns-query
+*.youtube.ae = server:https://dns.cloudflare.com/dns-query
+*.youtube.al = server:https://dns.cloudflare.com/dns-query
+*.youtube.am = server:https://dns.cloudflare.com/dns-query
+*.youtube.at = server:https://dns.cloudflare.com/dns-query
+*.youtube.az = server:https://dns.cloudflare.com/dns-query
+*.youtube.ba = server:https://dns.cloudflare.com/dns-query
+*.youtube.be = server:https://dns.cloudflare.com/dns-query
+*.youtube.bg = server:https://dns.cloudflare.com/dns-query
+*.youtube.bh = server:https://dns.cloudflare.com/dns-query
+*.youtube.bo = server:https://dns.cloudflare.com/dns-query
+*.youtube.by = server:https://dns.cloudflare.com/dns-query
+*.youtube.ca = server:https://dns.cloudflare.com/dns-query
+*.youtube.cat = server:https://dns.cloudflare.com/dns-query
+*.youtube.ch = server:https://dns.cloudflare.com/dns-query
+*.youtube.cl = server:https://dns.cloudflare.com/dns-query
+*.youtube.co = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.ae = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.at = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.cr = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.hu = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.id = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.il = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.in = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.jp = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.ke = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.kr = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.ma = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.nz = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.th = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.tz = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.ug = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.uk = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.ve = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.za = server:https://dns.cloudflare.com/dns-query
+*.youtube.co.zw = server:https://dns.cloudflare.com/dns-query
+*.youtube.com = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ar = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.au = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.az = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.bd = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.bh = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.bo = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.br = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.by = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.co = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.do = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ec = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ee = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.eg = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.es = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.gh = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.gr = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.gt = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.hk = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.hn = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.hr = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.jm = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.jo = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.kw = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.lb = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.lv = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ly = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.mk = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.mt = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.mx = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.my = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ng = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ni = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.om = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.pa = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.pe = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ph = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.pk = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.pt = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.py = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.qa = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ro = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.sa = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.sg = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.sv = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.tn = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.tr = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.tw = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ua = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.uy = server:https://dns.cloudflare.com/dns-query
+*.youtube.com.ve = server:https://dns.cloudflare.com/dns-query
+*.youtube.cr = server:https://dns.cloudflare.com/dns-query
+*.youtube.cz = server:https://dns.cloudflare.com/dns-query
+*.youtube.de = server:https://dns.cloudflare.com/dns-query
+*.youtube.dk = server:https://dns.cloudflare.com/dns-query
+*.youtube.ee = server:https://dns.cloudflare.com/dns-query
+*.youtube.es = server:https://dns.cloudflare.com/dns-query
+*.youtube.fi = server:https://dns.cloudflare.com/dns-query
+*.youtube.fr = server:https://dns.cloudflare.com/dns-query
+*.youtube.ge = server:https://dns.cloudflare.com/dns-query
+*.youtube.googleapis.com = server:https://dns.cloudflare.com/dns-query
+*.youtube.gr = server:https://dns.cloudflare.com/dns-query
+*.youtube.gt = server:https://dns.cloudflare.com/dns-query
+*.youtube.hk = server:https://dns.cloudflare.com/dns-query
+*.youtube.hr = server:https://dns.cloudflare.com/dns-query
+*.youtube.hu = server:https://dns.cloudflare.com/dns-query
+*.youtube.ie = server:https://dns.cloudflare.com/dns-query
+*.youtube.in = server:https://dns.cloudflare.com/dns-query
+*.youtube.iq = server:https://dns.cloudflare.com/dns-query
+*.youtube.is = server:https://dns.cloudflare.com/dns-query
+*.youtube.it = server:https://dns.cloudflare.com/dns-query
+*.youtube.jo = server:https://dns.cloudflare.com/dns-query
+*.youtube.jp = server:https://dns.cloudflare.com/dns-query
+*.youtube.kr = server:https://dns.cloudflare.com/dns-query
+*.youtube.kz = server:https://dns.cloudflare.com/dns-query
+*.youtube.la = server:https://dns.cloudflare.com/dns-query
+*.youtube.lk = server:https://dns.cloudflare.com/dns-query
+*.youtube.lt = server:https://dns.cloudflare.com/dns-query
+*.youtube.lu = server:https://dns.cloudflare.com/dns-query
+*.youtube.lv = server:https://dns.cloudflare.com/dns-query
+*.youtube.ly = server:https://dns.cloudflare.com/dns-query
+*.youtube.ma = server:https://dns.cloudflare.com/dns-query
+*.youtube.md = server:https://dns.cloudflare.com/dns-query
+*.youtube.me = server:https://dns.cloudflare.com/dns-query
+*.youtube.mk = server:https://dns.cloudflare.com/dns-query
+*.youtube.mn = server:https://dns.cloudflare.com/dns-query
+*.youtube.mx = server:https://dns.cloudflare.com/dns-query
+*.youtube.my = server:https://dns.cloudflare.com/dns-query
+*.youtube.ng = server:https://dns.cloudflare.com/dns-query
+*.youtube.ni = server:https://dns.cloudflare.com/dns-query
+*.youtube.nl = server:https://dns.cloudflare.com/dns-query
+*.youtube.no = server:https://dns.cloudflare.com/dns-query
+*.youtube.pa = server:https://dns.cloudflare.com/dns-query
+*.youtube.pe = server:https://dns.cloudflare.com/dns-query
+*.youtube.ph = server:https://dns.cloudflare.com/dns-query
+*.youtube.pk = server:https://dns.cloudflare.com/dns-query
+*.youtube.pl = server:https://dns.cloudflare.com/dns-query
+*.youtube.pr = server:https://dns.cloudflare.com/dns-query
+*.youtube.pt = server:https://dns.cloudflare.com/dns-query
+*.youtube.qa = server:https://dns.cloudflare.com/dns-query
+*.youtube.ro = server:https://dns.cloudflare.com/dns-query
+*.youtube.rs = server:https://dns.cloudflare.com/dns-query
+*.youtube.ru = server:https://dns.cloudflare.com/dns-query
+*.youtube.sa = server:https://dns.cloudflare.com/dns-query
+*.youtube.se = server:https://dns.cloudflare.com/dns-query
+*.youtube.sg = server:https://dns.cloudflare.com/dns-query
+*.youtube.si = server:https://dns.cloudflare.com/dns-query
+*.youtube.sk = server:https://dns.cloudflare.com/dns-query
+*.youtube.sn = server:https://dns.cloudflare.com/dns-query
+*.youtube.soy = server:https://dns.cloudflare.com/dns-query
+*.youtube.sv = server:https://dns.cloudflare.com/dns-query
+*.youtube.tn = server:https://dns.cloudflare.com/dns-query
+*.youtube.tv = server:https://dns.cloudflare.com/dns-query
+*.youtube.ua = server:https://dns.cloudflare.com/dns-query
+*.youtube.ug = server:https://dns.cloudflare.com/dns-query
+*.youtube.uy = server:https://dns.cloudflare.com/dns-query
+*.youtube.vn = server:https://dns.cloudflare.com/dns-query
+*.youtubeeducation.com = server:https://dns.cloudflare.com/dns-query
+*.youtubeembeddedplayer.googleapis.com = server:https://dns.cloudflare.com/dns-query
+*.youtubefanfest.com = server:https://dns.cloudflare.com/dns-query
+*.youtubegaming.com = server:https://dns.cloudflare.com/dns-query
+*.youtubego.co.id = server:https://dns.cloudflare.com/dns-query
+*.youtubego.co.in = server:https://dns.cloudflare.com/dns-query
+*.youtubego.com = server:https://dns.cloudflare.com/dns-query
+*.youtubego.com.br = server:https://dns.cloudflare.com/dns-query
+*.youtubego.id = server:https://dns.cloudflare.com/dns-query
+*.youtubego.in = server:https://dns.cloudflare.com/dns-query
+*.youtubei.googleapis.com = server:https://dns.cloudflare.com/dns-query
+*.youtubekids.com = server:https://dns.cloudflare.com/dns-query
+*.youtubemobilesupport.com = server:https://dns.cloudflare.com/dns-query
+*.yt.be = server:https://dns.cloudflare.com/dns-query
+*.ytimg.com = server:https://dns.cloudflare.com/dns-query
+
+
+> Alphabet
+refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
+*.google = server:https://dns.cloudflare.com/dns-query // Google
+*.google.com = server:https://dns.cloudflare.com/dns-query // Google
+*.google.com.?? = server:https://dns.cloudflare.com/dns-query // Google
+*.goog = server:https://dns.cloudflare.com/dns-query // Google sites
+*.gstatic.com = server:https://dns.cloudflare.com/dns-query // Google 静态资源
+*.ggpht.com = server:https://dns.cloudflare.com/dns-query // Google Photos
+*.googleusercontent.com = server:https://dns.cloudflare.com/dns-query // Google 用户上传数据
+*.googleapis.com = server:https://dns.cloudflare.com/dns-query // Google APIs
+*.1e100.net = server:https://dns.cloudflare.com/dns-query // Google backbone
+*.youtube = server:https://dns.cloudflare.com/dns-query // Youtube sites
+*.youtube.com = server:https://dns.cloudflare.com/dns-query // Youtube
+*.ytimg.com = server:https://dns.cloudflare.com/dns-query // Youtube 图片
+*.googlevideo.com = server:https://dns.cloudflare.com/dns-query // Youtube Video
+*.gvt?.com = server:https://dns.cloudflare.com/dns-query // Google Video Thumbnails
+*.recaptcha.net = server:https://dns.cloudflare.com/dns-query // reCaptcha
+*.gmail.com = server:https://dns.cloudflare.com/dns-query // Gmail
+*.googlesource.com = server:https://dns.cloudflare.com/dns-query // Google Source
+*.googleadservices.com = server:https://dns.cloudflare.com/dns-query // Google AD Services
+*.doubleclick.net = server:https://dns.cloudflare.com/dns-query // DoubleClick
+*.adsense.com = server:https://dns.cloudflare.com/dns-query // AdSense
+*.adsensecustomsearchads.com = server:https://dns.cloudflare.com/dns-query // AdSense Custom Search Ads
+*.adsenseformobileapps.com = server:https://dns.cloudflare.com/dns-query // AdSense for mobile apps
+*.gle = server:https://dns.cloudflare.com/dns-query // Google shortened URLs
+goo.gl = server:https://dns.cloudflare.com/dns-query // Google URL Shortener
 
 # > Cloudflare
 # refer: https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/
@@ -201,295 +1230,415 @@ networking.apple = server:223.5.5.5
 
 # > 阿里巴巴
 # refer: https://www.alidns.com
-*.alibaba.cn = server:https://dns.alidns.com/dns-query
-*.alibaba.com.cn = server:https://dns.alidns.com/dns-query
-# Alibaba 中国
-*.china.alibaba.com = server:https://dns.alidns.com/dns-query
-# 1688
-*.1688.com = server:https://dns.alidns.com/dns-query
-# 淘宝
-*.taobao.com = server:https://dns.alidns.com/dns-query
-# 淘宝 缓存
-*.tbcache.com = server:https://dns.alidns.com/dns-query
-# 天猫
-*.tmall.com = server:https://dns.alidns.com/dns-query
-# 阿里 CDN
-*.alicdn.com = server:https://dns.alidns.com/dns-query
-# 阿里昆仑
-*.alikunlun.com = server:https://dns.alidns.com/dns-query
-# 云引擎应用平台
-*.aliapp.com = server:https://dns.alidns.com/dns-query
-# 上云平台
-*.aliapp.org = server:https://dns.alidns.com/dns-query
-# 阿里用户上传资料
-*.alibabausercontent.com = server:https://dns.alidns.com/dns-query
-# mmstat 数据统计 广告追踪
-*.mmstat.com = server:https://dns.alidns.com/dns-query
-# 淘宝短网址
-tb.cn = server:https://dns.alidns.com/dns-query
+*.alibaba.cn = server:223.5.5.5 // 阿里巴巴
+*.alibaba.com.cn = server:223.5.5.5 // 阿里巴巴
+*.china.alibaba.com = server:223.5.5.5 // Alibaba 中国
+*.1688.com = server:223.5.5.5 // 1688
+*.taobao.com = server:223.5.5.5 // 淘宝
+*.tbcache.com = server:223.5.5.5 // 淘宝 缓存
+*.tmall.com = server:223.5.5.5 // 天猫
+*.alicdn.com = server:223.5.5.5 // 阿里 CDN
+*.alikunlun.com = server:223.5.5.5 // 阿里昆仑
+*.aliapp.com = server:223.5.5.5 // 云引擎应用平台
+*.aliapp.org = server:223.5.5.5 // 上云平台
+*.alibabausercontent.com = server:223.5.5.5 // 阿里用户上传资料
+*.mmstat.com = server:223.5.5.5 // mmstat 数据统计 广告追踪
+tb.cn = server:223.5.5.5 // 淘宝短网址
 
 # > 阿里云
 # refer: https://www.alidns.com
-# 阿里云
-*.aliyun.* = server:https://dns.alidns.com/dns-query
-# 阿里云 CDN
-*.aliyuncdn.* = server:https://dns.alidns.com/dns-query
-# 阿里云 API 服务
-*.aliyuncs.com = server:https://dns.alidns.com/dns-query
-# 阿里云 DDoS防护
-*.aliyunddos????.com = server:https://dns.alidns.com/dns-query
-# 阿里云盘
-*.aliyundrive.com = server:https://dns.alidns.com/dns-query
-# 阿里云盾
-*.aliyundun.com = server:https://dns.alidns.com/dns-query
-# 阿里云盾 Web 应用防火墙
-*.aliyundunwaf.com = server:https://dns.alidns.com/dns-query
-# 阿里云 内部
-*.aliyun-inc.com = server:https://dns.alidns.com/dns-query
+*.aliyun.* = server:223.5.5.5 // 阿里云
+*.aliyuncdn.* = server:223.5.5.5 // 阿里云 CDN
+*.aliyuncs.com = server:223.5.5.5 // 阿里云 API 服务
+*.aliyunddos????.com = server:223.5.5.5 // 阿里云 DDoS防护
+*.aliyundrive.com = server:223.5.5.5 // 阿里云盘
+*.aliyundun.com = server:223.5.5.5 // 阿里云盾
+*.aliyundunwaf.com = server:223.5.5.5 // 阿里云盾 Web 应用防火墙
+*.aliyun-inc.com = server:223.5.5.5 // 阿里云 内部
 
 # > 蚂蚁集团
 # refer: https://www.alidns.com
-*.antgroup.com = server:https://dns.alidns.com/dns-query
-# 蚂蚁金服
-*.antfin.com = server:https://dns.alidns.com/dns-query
-*.antfinancial.com = server:https://dns.alidns.com/dns-query
-# 支付宝
-*.alipay.com = server:https://dns.alidns.com/dns-query
-*.alipay.com.cn = server:https://dns.alidns.com/dns-query
-# 支付宝 HTTP DNS
-*.alipaydns.com = server:https://dns.alidns.com/dns-query
-# 支付宝 商家资源
-*.alipayeshop.com = server:https://dns.alidns.com/dns-query
-# 支付宝 Mdap
-*.alipaylog.com = server:https://dns.alidns.com/dns-query
-# 支付宝 静态资源
-*.alipayobjects.com = server:https://dns.alidns.com/dns-query
-# 支付宝 开放技术生态体系
-*.alipay-eco.com = server:https://dns.alidns.com/dns-query
+*.antgroup.com = server:223.5.5.5 // 蚂蚁集团
+*.antfin.com = server:223.5.5.5 // 蚂蚁金服
+*.antfinancial.com = server:223.5.5.5 // 蚂蚁金服
+*.alipay.com = server:223.5.5.5 // 支付宝
+*.alipay.com.cn = server:223.5.5.5 // 支付宝
+*.alipaydns.com = server:223.5.5.5 // 支付宝 HTTP DNS
+*.alipayeshop.com = server:223.5.5.5 // 支付宝 商家资源
+*.alipaylog.com = server:223.5.5.5 // 支付宝 Mdap
+*.alipayobjects.com = server:223.5.5.5 // 支付宝 静态资源
+*.alipay-eco.com = server:223.5.5.5 // 支付宝 开放技术生态体系
+
+# > jd，京东
+*.jcloudimg.net = server:119.29.29.29
+*.jcloudlb.com = server:119.29.29.29
+*.300hu.com = server:119.29.29.29
+*.360buy.cn = server:119.29.29.29
+*.360buy.com = server:119.29.29.29
+*.360buyimg.com = server:119.29.29.29
+*.360buyinternational.com = server:119.29.29.29
+*.360top.com = server:119.29.29.29
+*.7fresh.com = server:119.29.29.29
+*.baitiao.com = server:119.29.29.29
+*.blackdragon.com = server:119.29.29.29
+*.caiyu.com = server:119.29.29.29
+*.chicalot.cn = server:119.29.29.29
+*.cloud-beijing.com = server:119.29.29.29
+*.cloud-hebi.com = server:119.29.29.29
+*.cloud-ningbo.com = server:119.29.29.29
+*.cloud-ordos.com = server:119.29.29.29
+*.cloud-shenzhen.com = server:119.29.29.29
+*.cloud-shiyan.com = server:119.29.29.29
+*.cloud-wuhan.com = server:119.29.29.29
+*.cloud-xian.com = server:119.29.29.29
+*.cloud-xm.com = server:119.29.29.29
+*.cloud-zhaoqing.com = server:119.29.29.29
+*.cloud-zhongwei.com = server:119.29.29.29
+*.cloudanqing.com = server:119.29.29.29
+*.cloudbaoshan.com = server:119.29.29.29
+*.cloudbeibei.com = server:119.29.29.29
+*.cloudbinzhou.com = server:119.29.29.29
+*.cloudchangde.com = server:119.29.29.29
+*.cloudchangsha.com = server:119.29.29.29
+*.cloudchangzhou.com = server:119.29.29.29
+*.cloudchaozhou.com = server:119.29.29.29
+*.cloudchengde.com = server:119.29.29.29
+*.cloudchengdu.com = server:119.29.29.29
+*.cloudchuzhou.com = server:119.29.29.29
+*.cloudczs.com = server:119.29.29.29
+*.clouddalian.com = server:119.29.29.29
+*.clouddatong.com = server:119.29.29.29
+*.clouddongying.com = server:119.29.29.29
+*.cloudfoshan.com = server:119.29.29.29
+*.cloudfuqing.com = server:119.29.29.29
+*.cloudganzhou.com = server:119.29.29.29
+*.cloudguangzhou.com = server:119.29.29.29
+*.cloudhaidong.com = server:119.29.29.29
+*.cloudhefei.com = server:119.29.29.29
+*.cloudhengshui.com = server:119.29.29.29
+*.cloudhuaihua.com = server:119.29.29.29
+*.cloudhuizhou.com = server:119.29.29.29
+*.cloudjinan.com = server:119.29.29.29
+*.cloudjinchang.com = server:119.29.29.29
+*.cloudjingzhou.com = server:119.29.29.29
+*.cloudjining.com = server:119.29.29.29
+*.cloudjiujiang.com = server:119.29.29.29
+*.cloudkunming.com = server:119.29.29.29
+*.cloudleshan.com = server:119.29.29.29
+*.cloudlijiang.com = server:119.29.29.29
+*.cloudlishui.com = server:119.29.29.29
+*.cloudluohe.com = server:119.29.29.29
+*.cloudluoyang.com = server:119.29.29.29
+*.cloudmeishan.com = server:119.29.29.29
+*.cloudnanan.com = server:119.29.29.29
+*.cloudnanjing.com = server:119.29.29.29
+*.cloudnanning.com = server:119.29.29.29
+*.cloudnantong.com = server:119.29.29.29
+*.cloudquanzhou.com = server:119.29.29.29
+*.cloudsanya.com = server:119.29.29.29
+*.cloudshanghai.com = server:119.29.29.29
+*.cloudshaoyang.com = server:119.29.29.29
+*.cloudshenfuxingqu.com = server:119.29.29.29
+*.cloudsiping.com = server:119.29.29.29
+*.cloudsuqian.com = server:119.29.29.29
+*.cloudtangshan.com = server:119.29.29.29
+*.cloudtianjin.com = server:119.29.29.29
+*.cloudtongchuan.com = server:119.29.29.29
+*.cloudtongliang.com = server:119.29.29.29
+*.cloudweinan.com = server:119.29.29.29
+*.cloudxiangtan.com = server:119.29.29.29
+*.cloudxianyou.com = server:119.29.29.29
+*.cloudxining.com = server:119.29.29.29
+*.cloudyanan.com = server:119.29.29.29
+*.cloudyancheng.com = server:119.29.29.29
+*.cloudyantai.com = server:119.29.29.29
+*.cloudyinchuan.com = server:119.29.29.29
+*.cloudyueyang.com = server:119.29.29.29
+*.cloudyuncheng.com = server:119.29.29.29
+*.cloudyuxi.com = server:119.29.29.29
+*.cloudzhongshan.com = server:119.29.29.29
+*.cloudzhuhai.com = server:119.29.29.29
+*.dao123.com = server:119.29.29.29
+*.goselling.com = server:119.29.29.29
+*.healthjd.com = server:119.29.29.29
+*.duolabao.com = server:119.29.29.29
+*.isvjcloud.com = server:119.29.29.29
+*.isvjd.com = server:119.29.29.29
+*.jcloud-cache.com = server:119.29.29.29
+*.jcloud-cache.net = server:119.29.29.29
+*.jcloud-cdn.com = server:119.29.29.29
+*.jcloud-live.com = server:119.29.29.29
+*.jcloud-oss.com = server:119.29.29.29
+*.jcloud.com = server:119.29.29.29
+*.jcloudcache.com = server:119.29.29.29
+*.jcloudcache.net = server:119.29.29.29
+*.jcloudcs.com = server:119.29.29.29
+*.jclouddn.com = server:119.29.29.29
+*.jclouddns.com = server:119.29.29.29
+*.jclouddns.net = server:119.29.29.29
+*.jcloudec.com = server:119.29.29.29
+*.jcloudedge.com = server:119.29.29.29
+*.jcloudedge.net = server:119.29.29.29
+*.1huizhan.com = server:119.29.29.29
+*.jcloudgslb.net = server:119.29.29.29
+*.jcloudimg.com = server:119.29.29.29
+*.jcloudgslb.com = server:119.29.29.29
+*.3.cn = server:119.29.29.29
+*.prestodb-china.com = server:119.29.29.29
+*.jcloudlive.com = server:119.29.29.29
+*.jcloudlv.com = server:119.29.29.29
+*.jcloudoss.com = server:119.29.29.29
+*.jcloudresolve.com = server:119.29.29.29
+*.jcloudresolve.net = server:119.29.29.29
+*.jcloudss.com = server:119.29.29.29
+*.jcloudstatic.com = server:119.29.29.29
+*.jcloudstatic.net = server:119.29.29.29
+*.jcloudvideo.com = server:119.29.29.29
+*.jcloudvideo.net = server:119.29.29.29
+*.jclps.com = server:119.29.29.29
+*.jd-app.com = server:119.29.29.29
+*.jd-ex.cn = server:119.29.29.29
+*.jd-ex.com = server:119.29.29.29
+*.yizhitou.com = server:119.29.29.29
+*.yiyaojd.com = server:119.29.29.29
+*.yihaodianimg.com = server:119.29.29.29
+*.jd-ex.net = server:119.29.29.29
+*.jd.cn = server:119.29.29.29
+*.jd.com = server:119.29.29.29
+*.yihaodian.com = server:119.29.29.29
+*.jd.shop = server:119.29.29.29
+*.jdbusiness.com = server:119.29.29.29
+*.jdcache.com = server:119.29.29.29
+*.jdcdn.com = server:119.29.29.29
+*.jdcloud-api.com = server:119.29.29.29
+*.jdcloud-api.net = server:119.29.29.29
+*.jdcloud-edu.com = server:119.29.29.29
+*.jdcloud-elite.com = server:119.29.29.29
+*.jdcloud-elive.com = server:119.29.29.29
+*.jdcloud-livebuy.com = server:119.29.29.29
+*.jdcloud-mail.com = server:119.29.29.29
+*.jdcloud-openapi.com = server:119.29.29.29
+*.jdcloud-oss.com = server:119.29.29.29
+*.jdcloud.com = server:119.29.29.29
+*.jdcloudcache.com = server:119.29.29.29
+*.jdcloudcache.net = server:119.29.29.29
+*.jdcloudcdn.com = server:119.29.29.29
+*.jdcloudcdn.net = server:119.29.29.29
+*.jdcloudcs.com = server:119.29.29.29
+*.jdclouddns.com = server:119.29.29.29
+*.jdclouddns.net = server:119.29.29.29
+*.jdcloudedge.com = server:119.29.29.29
+*.jdcloudedge.net = server:119.29.29.29
+*.jdcloudlb.com = server:119.29.29.29
+*.jdcloudlb.net = server:119.29.29.29
+*.jdcloudlive.com = server:119.29.29.29
+*.jdcloudlive.net = server:119.29.29.29
+*.jdcloudresolve.com = server:119.29.29.29
+*.jdcloudresolve.net = server:119.29.29.29
+*.jdcloudsite.com = server:119.29.29.29
+*.jdcloudstatic.com = server:119.29.29.29
+*.jdcloudstatic.net = server:119.29.29.29
+*.jdcloudstatus.com = server:119.29.29.29
+*.jdcloudstatus.net = server:119.29.29.29
+*.jdcloudvideo.com = server:119.29.29.29
+*.jdcloudvideo.net = server:119.29.29.29
+*.jdcloudwaf.com = server:119.29.29.29
+*.jddapeigou.com = server:119.29.29.29
+*.jddebug.com = server:119.29.29.29
+*.jddglobal.com = server:119.29.29.29
+*.jdemall.com = server:119.29.29.29
+*.jdfw1.com = server:119.29.29.29
+*.jdgslb.com = server:119.29.29.29
+*.jdgslb.net = server:119.29.29.29
+*.jdh.com = server:119.29.29.29
+*.jdjinrong.com = server:119.29.29.29
+*.jdl.cn = server:119.29.29.29
+*.jdl.com = server:119.29.29.29
+*.yhd.com = server:119.29.29.29
+*.jdlike.cn = server:119.29.29.29
+*.jdpay.com = server:119.29.29.29
+*.jdpaydns.com = server:119.29.29.29
+*.jdwl.com = server:119.29.29.29
+*.jdx.com = server:119.29.29.29
+*.jhscm.com = server:119.29.29.29
+*.jingdong.com = server:119.29.29.29
+*.jingdongjinrong.com = server:119.29.29.29
+*.jingpinhui.com = server:119.29.29.29
+*.jingxi.com = server:119.29.29.29
+*.jkcsjd.com = server:119.29.29.29
+*.joybuy.com = server:119.29.29.29
+*.joybuy.es = server:119.29.29.29
+*.linglonglife.com = server:119.29.29.29
+*.logiseasy.com = server:119.29.29.29
+*.mayshijia.com = server:119.29.29.29
+*.minitiao.com = server:119.29.29.29
+*.missjia.net = server:119.29.29.29
+*.ocwms.com = server:119.29.29.29
+*.paidaojia.cn = server:119.29.29.29
+*.paipai.com = server:119.29.29.29
+*.xjoycity.com = server:119.29.29.29
+*.jcloudlb.net = server:119.29.29.29
+*.qianxun.com = server:119.29.29.29
+*.qingzhouip.com = server:119.29.29.29
+*.sgsic.com = server:119.29.29.29
+*.toplife.com = server:119.29.29.29
+*.vg.com = server:119.29.29.29
+*.vipmro.com = server:119.29.29.29
+*.vipmro.net = server:119.29.29.29
+*.wangyin.com = server:119.29.29.29
+*.wdfok.com = server:119.29.29.29
+*.wuliujie.cn = server:119.29.29.29
+*.wuliujie.com = server:119.29.29.29
+*.xianjiqun.com = server:119.29.29.29
+*.prestodb.net.cn = server:119.29.29.29
+*.jdl.com.cn = server:119.29.29.29
+*.jd.com.cn = server:119.29.29.29
+*.jd-ex.com.cn = server:119.29.29.29
+*.duiou.com.cn = server:119.29.29.29
+*.chinabank.com.cn = server:119.29.29.29
+*.360buy.com.cn = server:119.29.29.29
+*.jd.co.th = server:119.29.29.29
+*.jd.hk. = server:119.29.29.29
+*.jd.id. = server:119.29.29.29
+*.jd.ru. = server:119.29.29.29
+*.ads.union.jd = server:119.29.29.29
+*.c-nfa.jd.com = server:119.29.29.29
+*.cps.360buy.com = server:119.29.29.29
+*.jzt.jd.com = server:119.29.29.29
+*.stat.m.jd = server:119.29.29.29
+*.img-x.jd.com = server:119.29.29.29
+
+
 
 # > 腾讯
 # refer: https://www.dnspod.cn/products/publicdns
-*.tencent.com = server:https://doh.pub/dns-query
-# 腾讯云
-*.qcloud.com = server:https://doh.pub/dns-query
-# 腾讯云CDN
-*.qcloudcdn.cn = server:https://doh.pub/dns-query
-*.qcloudcdn.com = server:https://doh.pub/dns-query
-# 腾讯云对象储存
-*.qcloudcos.com = server:https://doh.pub/dns-query
-# 腾讯云静态资源
-*.qcloudimg.com = server:https://doh.pub/dns-query
-# 腾讯云超级管家
-*.qcloudcjgj.com = server:https://doh.pub/dns-query
-# 腾讯云网站管家
-*.qcloudwzgj.com = server:https://doh.pub/dns-query
-# 腾讯云主页管家
-*.qcloudzygj.com = server:https://doh.pub/dns-query
-# 腾讯开放云
-*.myqcloud.com = server:https://doh.pub/dns-query
-# 腾讯云
-*.tencent-cloud.net = server:https://doh.pub/dns-query
-# 腾讯云aiot解决方案
-*.tencentcloud-aiot.com = server:https://doh.pub/dns-query
-# 腾讯云API
-*.tencentcloudapi.com = server:https://doh.pub/dns-query
-# 腾讯云容器镜像服务TCR
-*.tencentcloudcr.com = server:https://doh.pub/dns-query
-# 腾讯云云市场
-*.tencentcloudmarket.com = server:https://doh.pub/dns-query
-# QQ
-*.qq.com = server:https://doh.pub/dns-query
-# 腾讯头像
-*.qlogo.cn = server:https://doh.pub/dns-query
-# 腾讯图片
-*.qpic.cn = server:https://doh.pub/dns-query
-# 微信
-*.weixin.qq.com = server:https://doh.pub/dns-query
-*.wx.qq.com = server:https://doh.pub/dns-query
-*.weixin.com = server:https://doh.pub/dns-query
-# 微信公众平台
-*.weixinbridge.com = server:https://doh.pub/dns-query
-# WeChat
-*.wechat.com = server:https://doh.pub/dns-query
-# 微信小程序
-*.servicewechat.com = server:https://doh.pub/dns-query
-# 微云
-*.weiyun.com = server:https://doh.pub/dns-query
-# 腾讯 图片 静态资源
-*.gtimg.cn = server:https://doh.pub/dns-query
-*.idqqimg.com = server:https://doh.pub/dns-query
-# 腾讯 静态资源 CDN
-*.cdn-go.cn = server:https://doh.pub/dns-query
-# 腾讯云 智能云解析DNS
-*.smtcdns.com = server:https://doh.pub/dns-query
-*.smtcdns.net = server:https://doh.pub/dns-query
-# 腾讯短网址
-url.cn = server:https://doh.pub/dns-query
+*.tencent.com = server:119.29.29.29 // 腾讯
+*.qcloud.com = server:119.29.29.29 // 腾讯云
+*.qcloudcdn.cn = server:119.29.29.29 // 腾讯云CDN
+*.qcloudcdn.com = server:119.29.29.29 // 腾讯云CDN
+*.qcloudcos.com = server:119.29.29.29 // 腾讯云对象储存
+*.qcloudimg.com = server:119.29.29.29 // 腾讯云静态资源
+*.qcloudcjgj.com = server:119.29.29.29 // 腾讯云超级管家
+*.qcloudwzgj.com = server:119.29.29.29 // 腾讯云网站管家
+*.qcloudzygj.com = server:119.29.29.29 // 腾讯云主页管家
+*.myqcloud.com = server:119.29.29.29 // 腾讯开放云
+*.tencent-cloud.net = server:119.29.29.29 // 腾讯云
+*.tencentcloud-aiot.com = server:119.29.29.29 // 腾讯云aiot解决方案
+*.tencentcloudapi.com = server:119.29.29.29 // 腾讯云API
+*.tencentcloudcr.com = server:119.29.29.29 // 腾讯云容器镜像服务TCR
+*.tencentcloudmarket.com = server:119.29.29.29 // 腾讯云云市场
+*.qq.com = server:119.29.29.29 // QQ
+*.qlogo.cn = server:119.29.29.29 // 腾讯头像
+*.qpic.cn = server:119.29.29.29 // 腾讯图片
+*.weixin.qq.com = server:119.29.29.29 // 微信
+*.wx.qq.com = server:119.29.29.29 // 微信
+*.weixin.com = server:119.29.29.29 // 微信
+*.weixinbridge.com = server:119.29.29.29 // 微信公众平台
+*.wechat.com = server:119.29.29.29 // WeChat
+*.servicewechat.com = server:119.29.29.29 // 微信小程序
+*.weiyun.com = server:119.29.29.29 // 微云
+*.gtimg.cn = server:119.29.29.29 // 腾讯 图片 静态资源
+*.idqqimg.com = server:119.29.29.29 // 腾讯 图片 静态资源
+*.cdn-go.cn = server:119.29.29.29 // 腾讯 静态资源 CDN
+*.smtcdns.com = server:119.29.29.29 // 腾讯云 智能云解析DNS
+*.smtcdns.net = server:119.29.29.29 // 腾讯云 智能云解析DNS
+url.cn = server:119.29.29.29 // 腾讯短网址
+
 
 # > 百度
 # refer: https://dudns.baidu.com/support/localdns/Address/index.html
-*.baidu = server:180.76.76.76
-*.baidu.com = server:180.76.76.76
-# 百度 静态资源
-*.bdimg.com = server:180.76.76.76
-*.bdstatic.com = server:180.76.76.76
-# 百度网盘
-*.baidupcs.* = server:180.76.76.76
-# 百度云CDN
-*.baiduyuncdn.* = server:180.76.76.76
-# 百度云DNS
-*.baiduyundns.* = server:180.76.76.76
-# 百度云 DNS
-*.bdydns.* = server:180.76.76.76
-# 百度云 CDN
-*.bdycdn.* = server:180.76.76.76
-# 百度云 域名
-*.bdysite.com = server:180.76.76.76
-*.bdysites.com = server:180.76.76.76
-# 百度智能云
-*.baidubce.* = server:180.76.76.76
-# 百度智能云 DNS
-*.bcedns.* = server:180.76.76.76
-# 百度智能云 对象存储BOS
-*.bcebos.com = server:180.76.76.76
-# 百度智能云 播放器服务
-*.bcevod.com = server:180.76.76.76
-# 百度智能云 图片服务
-*.bceimg.com = server:180.76.76.76
-# 百度智能云 主机
-*.bcehost.com = server:180.76.76.76
-*.bcehosts.com = server:180.76.76.76
-# 百度短网址
-dwz.cn = server:180.76.76.76
+*.baidu = server:180.76.76.76 // 百度
+*.baidu.com = server:180.76.76.76 // 百度
+*.bdimg.com = server:180.76.76.76 // 百度 静态资源
+*.bdstatic.com = server:180.76.76.76 // 百度 静态资源
+*.baidupcs.* = server:180.76.76.76 // 百度网盘
+*.baiduyuncdn.* = server:180.76.76.76 // 百度云CDN
+*.baiduyundns.* = server:180.76.76.76 // 百度云DNS
+*.bdydns.* = server:180.76.76.76 // 百度云 DNS
+*.bdycdn.* = server:180.76.76.76 // 百度云 CDN
+*.bdysite.com = server:180.76.76.76 // 百度云 域名
+*.bdysites.com = server:180.76.76.76 // 百度云 域名
+*.baidubce.* = server:180.76.76.76 // 百度智能云
+*.bcedns.* = server:180.76.76.76 // 百度智能云 DNS
+*.bcebos.com = server:180.76.76.76 // 百度智能云 对象存储BOS
+*.bcevod.com = server:180.76.76.76 // 百度智能云 播放器服务
+*.bceimg.com = server:180.76.76.76 // 百度智能云 图片服务
+*.bcehost.com = server:180.76.76.76 // 百度智能云 主机
+*.bcehosts.com = server:180.76.76.76 // 百度智能云 主机
+dwz.cn = server:180.76.76.76 // 百度短网址
 
-# > 360
-# refer: https://sdns.360.net/dnsPublic.html#course
-# 360安全中心
-*.360.cn = server:https://doh.360.cn/dns-query
-# 360安全卫士
-*.360safe.com = server:https://doh.360.cn/dns-query
-# 360快资讯
-*.360kuai.com = server:https://doh.360.cn/dns-query
-# 360搜索
-*.so.com = server:https://doh.360.cn/dns-query
-# 360网页快照服务
-*.360webcache.com = server:https://doh.360.cn/dns-query
-# 奇虎api
-*.qihuapi.com = server:https://doh.360.cn/dns-query
-# 360图床
-*.qhimg.com = server:https://doh.360.cn/dns-query
-*.qhimgs.com = server:https://doh.360.cn/dns-query
-*.qhimgs?.com = server:https://doh.360.cn/dns-query
-# 360
-*.qhmsg.com = server:https://doh.360.cn/dns-query
-# 奇虎静态资源
-*.qhres.com = server:https://doh.360.cn/dns-query
-*.qhres?.com = server:https://doh.360.cn/dns-query
-# 导航静态文件
-*.dhrest.com = server:https://doh.360.cn/dns-query
-# 360
-*.qhupdate.com = server:https://doh.360.cn/dns-query
-# 360安全云盘
-*.yunpan.cn = server:https://doh.360.cn/dns-query
-*.yunpan.com.cn = server:https://doh.360.cn/dns-query
-*.yunpan.com = server:https://doh.360.cn/dns-query
-# 360短网址
-urlqh.cn = server:https://doh.360.cn/dns-query
 
 # > Bytedance
 # refer: https://www.volcengine.com/docs/6758/179060
-# 艾特迷
-*.amemv.com = server:180.184.1.1
-# 西瓜 图片服务
-*.bdxiguaimg.com = server:180.184.1.1
-# 西瓜 静态资源
-*.bdxiguastatic.com = server:180.184.1.1
-# 字节跳动 UNPKG
-*.byted-static.com = server:180.184.1.1
-# 字节跳动
-*.bytedance.* = server:180.184.1.1
-# 字节跳动 DNS
-*.bytedns.net = server:180.184.1.1
-# 字节跳动 CDN 文件存储
-*.bytednsdoc.com = server:180.184.1.1
-# 字节跳动 Goofy
-*.bytegoofy.com = server:180.184.1.1
-# 字节跳动 图片服务
-*.byteimg.com = server:180.184.1.1
-# 字节跳动 SCM
-*.bytescm.com = server:180.184.1.1
-# 字节跳动 TOS
-*.bytetos.com = server:180.184.1.1
-# 飞书企业服务平台
-*.bytexservice.com = server:180.184.1.1
-# 抖音
-*.douyin.com = server:180.184.1.1
-# 抖音 静态资源
-*.douyinpic.com = server:180.184.1.1
-# 抖音 静态资源
-*.douyinstatic.com = server:180.184.1.1
-# 抖音 静态资源
-*.douyinvod.com = server:180.184.1.1
-# FeelGood平台
-*.feelgood.cn = server:180.184.1.1
-# 飞聊官网
-*.feiliao.com = server:180.184.1.1
-# 快手
-*.gifshow.com = server:180.184.1.1
-# 火山网
-*.huoshan.com = server:180.184.1.1
-# 火山直播
-*.huoshanzhibo.com = server:180.184.1.1
-# 抖音 dapm
-*.ibytedapm.com = server:180.184.1.1
-# 抖音 CDN
-*.iesdouyin.com = server:180.184.1.1
-# 西瓜视频
-*.ixigua.com = server:180.184.1.1
-# 快手
-*.kspkg.com = server:180.184.1.1
-# 抖音 静态资源
-*.pstatp.com = server:180.184.1.1
-# 今日头条
-*.snssdk.com = server:180.184.1.1
-# 今日头条
-*.toutiao.com = server:180.184.1.1
-# 今日头条
-*.toutiao13.com = server:180.184.1.1
-# 今日头条 静态资源
-*.toutiao???.??? = server:180.184.1.1
-# 头条云
-*.toutiaocloud.cn = server:180.184.1.1
-# 头条云
-*.toutiaocloud.com = server:180.184.1.1
-# 今日头条 建站
-*.toutiaopage.com = server:180.184.1.1
-# 悟空
-*.wukong.com = server:180.184.1.1
-# 字节跳动 API
-*.zijieapi.com = server:180.184.1.1
-# 字节跳动 图片服务
-*.zijieimg.com = server:180.184.1.1
-# 今日头条 网页版
-*.zjbyte.com = server:180.184.1.1
-# 字节跳动 CDN
-*.zjcdn.com = server:180.184.1.1
+*.amemv.com = server:180.184.1.1 // 艾特迷
+*.bdxiguaimg.com = server:180.184.1.1 // 西瓜 图片服务
+*.bdxiguastatic.com = server:180.184.1.1 // 西瓜 静态资源
+*.byted-static.com = server:180.184.1.1 // 字节跳动 UNPKG
+*.bytedance.* = server:180.184.1.1 // 字节跳动
+*.bytedns.net = server:180.184.1.1 // 字节跳动 DNS
+*.bytednsdoc.com = server:180.184.1.1 // 字节跳动 CDN 文件存储
+*.bytegoofy.com = server:180.184.1.1 // 字节跳动 Goofy
+*.byteimg.com = server:180.184.1.1 // 字节跳动 图片服务
+*.bytescm.com = server:180.184.1.1 // 字节跳动 SCM
+*.bytetos.com = server:180.184.1.1 // 字节跳动 TOS
+*.bytexservice.com = server:180.184.1.1 // 飞书企业服务平台
+*.douyin.com = server:180.184.1.1 // 抖音
+*.douyinpic.com = server:180.184.1.1 // 抖音 静态资源
+*.douyinstatic.com = server:180.184.1.1 // 抖音 静态资源
+*.douyinvod.com = server:180.184.1.1 // 抖音 静态资源
+*.feelgood.cn = server:180.184.1.1 // FeelGood平台
+*.feiliao.com = server:180.184.1.1 // 飞聊官网
+*.gifshow.com = server:180.184.1.1 // 快手
+*.huoshan.com = server:180.184.1.1 // 火山网
+*.huoshanzhibo.com = server:180.184.1.1 // 火山直播
+*.ibytedapm.com = server:180.184.1.1 // 抖音 dapm
+*.iesdouyin.com = server:180.184.1.1 // 抖音 CDN
+*.ixigua.com = server:180.184.1.1 // 西瓜视频
+*.kspkg.com = server:180.184.1.1 // 快手
+*.pstatp.com = server:180.184.1.1 // 抖音 静态资源
+*.snssdk.com = server:180.184.1.1 // 今日头条
+*.toutiao.com = server:180.184.1.1 // 今日头条
+*.toutiao13.com = server:180.184.1.1 // 今日头条
+*.toutiao???.??? = server:180.184.1.1 // 今日头条 静态资源
+*.toutiaocloud.cn = server:180.184.1.1 // 头条云
+*.toutiaocloud.com = server:180.184.1.1 // 头条云
+*.toutiaopage.com = server:180.184.1.1 // 今日头条 建站
+*.wukong.com = server:180.184.1.1 // 悟空
+*.zijieapi.com = server:180.184.1.1 // 字节跳动 API
+*.zijieimg.com = server:180.184.1.1 // 字节跳动 图片服务
+*.zjbyte.com = server:180.184.1.1 // 今日头条 网页版
+*.zjcdn.com = server:180.184.1.1 // 字节跳动 CDN
+
 
 # > BiliBili
-# BiliBili upos视频服务器（阿里云）
-upos-sz-mirrorali.bilivideo.com = server:https://dns.alidns.com/dns-query
-upos-sz-mirrorali?.bilivideo.com = server:https://dns.alidns.com/dns-query
-upos-sz-mirrorali??.bilivideo.com = server:https://dns.alidns.com/dns-query
-# BiliBili upos视频服务器（百度云）
-upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
-# BiliBili upos视频服务器（腾讯云）
-upos-sz-mirrorcos.bilivideo.com = server:https://doh.pub/dns-query
-upos-sz-mirrorcos?.bilivideo.com = server:https://doh.pub/dns-query
-upos-sz-mirrorcos??.bilivideo.com = server:https://doh.pub/dns-query
-# BiliBili upos视频服务器（百度云）
-upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76
-# BiliBili upos视频服务器（腾讯云）
-upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
+upos-sz-mirrorali.bilivideo.com = server:223.5.5.5 // BiliBili upos视频服务器（阿里云）
+upos-sz-mirrorali?.bilivideo.com = server:223.5.5.5 // BiliBili upos视频服务器（阿里云）
+upos-sz-mirrorali??.bilivideo.com = server:223.5.5.5 // BiliBili upos视频服务器（阿里云）
+upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服务器（百度云）
+upos-sz-mirrorcos.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务器（腾讯云）
+upos-sz-mirrorcos?.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务器（腾讯云）
+upos-sz-mirrorcos??.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务器（腾讯云）
+upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服务器（百度云）
+upos-sz-upcdntx.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务器（腾讯云）
+
+
+# > xiaohongshu
+*.xhscdn.com = server:223.5.5.5 // 小红书
+*.xhscdn.net = server:223.5.5.5 // 小红书
+*.xiaohongshu.com = server:223.5.5.5 // 小红书
+
+# > Amap
+*.a-map.cn = server:223.5.5.5 // 高德地图
+*.a-map.co = server:223.5.5.5
+*.a-map.link = server:223.5.5.5
+*.a-map.vip = server:223.5.5.5
+*.acloudrender.com = server:223.5.5.5
+*.amap.com = server:223.5.5.5
+*.amapauto.com = server:223.5.5.5
+*.anav.com = server:223.5.5.5
+*.autonavi.com = server:223.5.5.5
+*.gaode.com = server:223.5.5.5
+
 
 # > 🇨🇳 CHN
 # CNNIC SDNS
