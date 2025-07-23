@@ -143,31 +143,25 @@ RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 *.workers.dev = server:https://dns.cloudflare.com/dns-query // CloudFlare Workers
 
 # > 阿里巴巴
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:223.5.5.5
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:https://doh.18bit.cn/dns-query
 
 # > jd，京东
-
 RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list = server:https://doh.18bit.cn/dns-query
-
 
 # > 腾讯
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf = server:119.29.29.29
 
-
 # > 百度
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/baidu.conf = server:180.76.76.76
-
 
 # > Bytedance
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:180.184.2.2
 
-
 # > BiliBili
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:223.5.5.5
-
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:https://doh.18bit.cn/dns-query
 
 # > xiaohongshu
-RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list = server:223.5.5.5
+RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list = server:https://doh.18bit.cn/dns-query
 
 # > Amap
 *.a-map.cn = server:223.5.5.5 // 高德地图
