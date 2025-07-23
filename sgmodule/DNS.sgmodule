@@ -147,7 +147,7 @@ RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.c
 
 # > jd，京东
 
-RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list = server:119.29.29.29
+RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list = server:https://doh.18bit.cn/dns-query
 
 
 # > 腾讯
