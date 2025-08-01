@@ -215,5 +215,9 @@ RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # Hurricane Electric
 *.he.net = server:https://ordns.he.net/dns-query // HE.net
 
-# > cn
+# > cn1
+RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/China/China_All_No_Resolve.list = server:223.5.5.5
+
+
+# > cn2
 RULE-SET:https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list = server:223.5.5.5
