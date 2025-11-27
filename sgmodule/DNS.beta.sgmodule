@@ -12,7 +12,7 @@ use-local-host-item-for-proxy = true
 
 # > 加密DNS服务器
 # 使加密DNS请求通过代理策略执行
-encrypted-dns-follow-outbound-mode = true
+encrypted-dns-follow-outbound-mode = false
 
 [Host]
 # --- CUSTOM HOSTS ---
@@ -89,46 +89,6 @@ peiluyou.com = server:syslib // 迅雷路由
 _hotspot_.m2m = server:syslib // M2M routers at MiFi Hotspot
 hotspot.cslwifi.com = server:syslib // csl Wi-Fi
 
-# > Facebook
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list = server:https://dns.cloudflare.com/dns-query
-
-
-# > instagram
-
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list = server:https://dns.cloudflare.com/dns-query
-
-
-# > telegram
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list = server:https://dns.cloudflare.com/dns-query
-
-# > Amazon
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list = server:https://dns.cloudflare.com/dns-query
-
-
-
-# > Twitter
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list = server:https://dns.cloudflare.com/dns-query
-
-> Youtube
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list = server:https://dns.google/dns-query
-
-
-> Alphabet
-# RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list = server:https://dns.google/dns-query
-
-
-
-# > Cloudflare
-# refer: https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/
-*.cloudflare.com = server:https://dns.cloudflare.com/dns-query // Cloudflare
-*.cloudflarestream.com = server:https://dns.cloudflare.com/dns-query // Cloudflare Stream
-*.cloudflareclient.com = server:https://dns.cloudflare.com/dns-query // Cloudflare Client
-*.cloudflareinsights.com = server:https://dns.cloudflare.com/dns-query // Cloudflare Web Analytics
-*.every1dns.net = server:https://dns.cloudflare.com/dns-query // Cloudflare 1.1.1.1
-# *.cloudflaressl.com = server:https://dns.cloudflare.com/dns-query // Cloudflare SSL Certificate
-*.cloudflare-dns.com = server:https://dns.cloudflare.com/dns-query // Cloudflare DNS
-*.workers.dev = server:https://dns.cloudflare.com/dns-query // CloudFlare Workers
-
 # > 阿里巴巴
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:223.5.5.5
 
@@ -142,7 +102,7 @@ RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.c
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/baidu.conf = server:180.76.76.76
 
 # > Bytedance
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:223.5.5.5
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:180.184.1.1
 
 # > BiliBili
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:223.5.5.5
@@ -168,39 +128,9 @@ RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # *.gov.cn = server:1.2.4.8 // 中国政府网
 # *.政务 = server:1.2.4.8 // 中国政府网
 
-# > 🇭🇰 HKG
-# PCCW Enterprises Limited
-# *.pccw.com = server:dns1.pccw.com // 电讯盈科
-# *.1010.com.hk = server:dns1.pccw.com // 1O1O
-# *.hkcsl.com = server:dns1.pccw.com // csl.
-# *.theclub.com.hk = server:dns1.pccw.com // The CLUB by HKT
-# *.now.com = server:dns2.pccw.com // now.com
-# *.nowe.com = server:dns2.pccw.com // Now E
-# *.now-tv.com = server:dns2.pccw.com // Now TV
-# *.moov.hk = server:dns3.pccw.com // MOOV
-# *.viu.com = server:dns3.pccw.com // viu
-# *.viu.tv = server:dns3.pccw.com // viu tv
-# Hong Kong Cable Television Limited
-# *.hkcable.com.hk = server:dns1.hkcable.com.hk // Hong Kong Cable Television Limited
-# *.i-cable.com = server:dns2.hkcable.com.hk // i-CABLE
-# *.cabletv.com.hk = server:dns2.hkcable.com.hk // CABLE TV Service
-# KDDI Hong Kong Limited
 
-# > 🇹🇼 TWN
-# 中华电信
-*.cht.com.tw = server:https://dns.hinet.net/dns-query // 中华电信
-*.hinet.net = server:https://dns.hinet.net/dns-query // 中华电信HiNet
-*.emome.net = server:https://dns.hinet.net/dns-query // 中华电信emome
-# So-net
-# so-net.net.tw = server:ns1.so-net.net.tw // So-net Entertainment Taiwan
-# so-net.tw = server:ns1.so-net.net.tw // So-net Entertainment Taiwan
-# Taiwan Network Information Center
-*.tw = server:https://dns.twnic.tw/dns-query // TWNIC DNS
-*.taipei = server:https://dns.twnic.tw/dns-query // TWNIC DNS
 
-# > 🇺🇸 USA
-# Hurricane Electric
-*.he.net = server:https://ordns.he.net/dns-query // HE.net
+
 
 
 
